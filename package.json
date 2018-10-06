@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/mazipan/hello-open-source/issues"
   },
-  "homepage": "https://github.com/mazipan/hello-open-source#readme"
+  "homepage": "https://github.com/mazipan/hello-open-source#readme",
+  "devDependencies": {
+    "standard": "^12.0.1"
+  }
 }
