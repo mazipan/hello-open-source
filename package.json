@@ -1,0 +1,27 @@
+{
+  "name": "hello-open-source",
+  "version": "1.0.0",
+  "description": "Repository for beginners that learn to contribute to open source project",
+  "main": "mazipan.js",
+  "scripts": {
+    "test": "standard \"*.js\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mazipan/hello-open-source.git"
+  },
+  "keywords": [
+    "open-source",
+    "beginners",
+    "contribute"
+  ],
+  "author": "mazipan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mazipan/hello-open-source/issues"
+  },
+  "homepage": "https://github.com/mazipan/hello-open-source#readme",
+  "devDependencies": {
+    "standard": "^12.0.1"
+  }
+}
