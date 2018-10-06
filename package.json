@@ -4,7 +4,7 @@
   "description": "Repository for beginners that learn to contribute to open source project",
   "main": "mazipan.js",
   "scripts": {
-    "test": "standard \"*.js\""
+    "test": "echo \"not implement yet\""
   },
   "repository": {
     "type": "git",
