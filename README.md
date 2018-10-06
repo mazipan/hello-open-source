@@ -12,7 +12,7 @@ https://help.github.com/articles/creating-and-deleting-branches-within-your-repo
 
 ```js 
 export default {
-  name: 'Irfan Maualan',
+  name: 'Irfan Maualana',
   github: 'mazipan',
   email: 'mazipanneh@gmail.com',
   twitter: '@Maz_Ipan',
