@@ -25,6 +25,14 @@ export default {
 + Don't forget to give 🌟 in this repository
 + Have fun and welcome to open source world.
 
+## Is this data collection?
+
+No, this is only for learning purpose about git flow and open source contribution process.
+
+## Do I need to attach my real name?
+
+No, just put any data. Non-sense, we just wanna learn about open source contribution.
+
 ------
 
 copyright © 2018 by Irfan Maulana
