@@ -5,10 +5,10 @@
 ## How to contribute
 
 + Fork this repo, read https://help.github.com/articles/fork-a-repo/
-+ Create branch with your github username, ex: `add-mazipan.js`. **Never use your `master` branch to create PR**.
++ Create branch with your github username, ex: `add-mazipan.js`. **Never use the `master` branch to create PR**.
 read this below link:
 https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/
-+ Add your first file with file name `github_username.js` in that branch.
++ Add your first file with file name `github_username.js` on the `peoples/` directory in that branch.
 + Add code with your identity, ex:
 
 ```js 
@@ -22,7 +22,7 @@ module.exports = {
 }
 ```
 
-+ Create Pull-Request to `master` branch on the `peoples/` directory in this repository, read https://help.github.com/articles/creating-a-pull-request/
++ Create Pull-Request to `master` branch in this repository, read https://help.github.com/articles/creating-a-pull-request/
 + Don't forget to give 🌟 in this repository
 + Have fun and welcome to open source world.
 
