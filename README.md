@@ -22,7 +22,7 @@ module.exports = {
 }
 ```
 
-+ Create Pull-Request to `master` branch in this repository, read https://help.github.com/articles/creating-a-pull-request/
++ Create Pull-Request to `master` branch on the `peoples/` directory in this repository, read https://help.github.com/articles/creating-a-pull-request/
 + Don't forget to give 🌟 in this repository
 + Have fun and welcome to open source world.
 
