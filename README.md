@@ -34,6 +34,13 @@ No, this is only for learning purpose about git flow and open source contributio
 
 No, just put any data. Non-sense, we just wanna learn about open source contribution.
 
+## How do I retrieve someone's data?
+
+```shell
+git clone https://github.com/mazipan/hello-open-source # clone the repo
+cd hello-open-source # cd into the repo
+node index.js caxvis # will return this person's named caxvis to you
+```
 ------
 
-copyright © 2018 by Irfan Maulana
+Copyright © 2018 **Irfan Maulana**
