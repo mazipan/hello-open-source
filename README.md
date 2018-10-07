@@ -12,7 +12,7 @@ https://help.github.com/articles/creating-and-deleting-branches-within-your-repo
 + Add code with your identity, ex:
 
 ```js 
-export default {
+module.exports = {
   name: 'XXX',
   github: 'XXX',
   email: 'xxx@xxx.com',
