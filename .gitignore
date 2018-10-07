@@ -62,3 +62,7 @@ typings/
 
 # jetbrains
 .idea/
+
+# mac stuff
+
+.DS_Store
