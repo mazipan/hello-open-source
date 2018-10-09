@@ -1,9 +1,10 @@
-const argv = process.argv[2],
-      print = console.log;
+const argv = process.argv[2]
 
-function retrieveData(name) {
-	let file = require(`./peoples/${name}.js`);
-	return file;
+const print = console.log
+
+function retrieveData (name) {
+  let file = require(`./peoples/${name}.js`)
+  return file
 }
 
 print(retrieveData(argv))
