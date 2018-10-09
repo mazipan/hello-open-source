@@ -1,5 +1,5 @@
 module.exports = {
-    name: 'Dawid Kozak',
-    github: 'StudentDawid',
-    email: 'd.kozak92@gmail.com'
-  }
+  name: 'Dawid Kozak',
+  github: 'StudentDawid',
+  email: 'd.kozak92@gmail.com'
+}
