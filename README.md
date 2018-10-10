@@ -41,6 +41,12 @@ git clone https://github.com/mazipan/hello-open-source # clone the repo
 cd hello-open-source # cd into the repo
 node index.js caxvis # will return this person's named caxvis to you
 ```
+
+## Do it on your own risk
+
+We don't collecting the data, but there is chance for other people abuse your data that submitted here. Please do it with your own risk, **we don't protect your data**.
+
+
 ------
 
 Copyright © 2018 **Irfan Maulana**
