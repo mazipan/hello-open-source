@@ -1,4 +1,4 @@
-# hello-open-source
+﻿# hello-open-source
 
 👶 Repository for beginners that learn to contribute to open source project
 
@@ -13,7 +13,7 @@ https://help.github.com/articles/creating-and-deleting-branches-within-your-repo
 
 ```js 
 module.exports = {
-  name: 'XXX',
+  name: 'sharad',
   github: 'XXX',
   email: 'xxx@xxx.com',
   twitter: '@xxx',
