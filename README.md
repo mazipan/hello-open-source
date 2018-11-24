@@ -44,7 +44,7 @@ node index.js caxvis # will return this person's named caxvis to you
 
 ## Do it on your own risk
 
-We don't collecting the data, but there is chance for other people abuse your data that submitted here. Please do it with your own risk, **we don't protect your data**.
+We don't collect the data, but there is chance for other people to abuse your data that is submitted here. Please do it with your own risk, **we don't protect your data**.
 
 
 ------
