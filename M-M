@@ -1,8 +1,0 @@
-module.exports = {
-	name: 'MengheangOu',
-	github: 'heang2022',
-	email: 'heang2022@kit.cam',
-	facebook: 'heang',
-	age: 19,
-	country: 'CAMBODIA',
-}
