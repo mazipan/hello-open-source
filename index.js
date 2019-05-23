@@ -8,6 +8,3 @@ function retrieveData (name) {
 }
 
 print(retrieveData(argv))
-
-<script>
-
