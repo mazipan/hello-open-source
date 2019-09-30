@@ -13,7 +13,7 @@ https://help.github.com/articles/creating-and-deleting-branches-within-your-repo
 
 ```js 
 module.exports = {
-  name: 'sharad',
+  name: 'YOUR_NAME',
   github: 'XXX',
   email: 'xxx@xxx.com',
   twitter: '@xxx',
@@ -24,6 +24,7 @@ module.exports = {
 
 + Create Pull-Request to `master` branch in this repository, read https://help.github.com/articles/creating-a-pull-request/
 + Don't forget to give 🌟 in this repository
++ May you want to follow github [@mazipan](https://github.com/mazipan)
 + Have fun and welcome to open source world.
 
 ## Is this data collection?
