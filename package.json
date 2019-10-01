@@ -6,7 +6,8 @@
   "scripts": {
     "lint": "eslint \"**/*.js\" --ignore-pattern node_modules/",
     "fixlint": "eslint \"**/*.js\" --ignore-pattern node_modules/ --fix",
-    "test": "echo \"not implement yet\""
+    "test": "echo \"not implement yet\"",
+    "purge": "rm -rf ./people"
   },
   "repository": {
     "type": "git",
@@ -18,7 +19,7 @@
     "contribute"
   ],
   "author": "mazipan",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/mazipan/hello-open-source/issues"
   },
