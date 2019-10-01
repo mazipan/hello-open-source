@@ -1,0 +1,8 @@
+module.exports = {
+  name: 'Dicky Setiono',
+  github: 'www.github.com/Dicky1',
+  email: 'teadandelion1@gmail.com',
+  twitter: '@dsetiono1',
+  facebook: 'Dicky Diko',
+  linkedin: 'Dicky Setiono'
+}
