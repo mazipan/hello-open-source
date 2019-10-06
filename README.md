@@ -53,6 +53,12 @@ yarn purge
 
 We don't collect the data, but there is chance for other people to abuse your data that is submitted here. Please do it with your own risk, **we don't protect your data**.
 
+## Next Step 🚀
+
+This repo will introduce you into Open Source flow, we expect you will know how you fork repository, how branching works, how to create pull request and other things about contribution to open source code.
+After you know the basics thing, we hope you will not stop here.
+Please keep contribute to any open source code.
+
 
 ------
 
