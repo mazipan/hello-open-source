@@ -4,28 +4,28 @@
 
 ## How to contribute
 
-+ Fork this repo, read https://help.github.com/articles/fork-a-repo/
-+ Create branch with your github username, ex: `add-mazipan.js`. **Never use the `master` branch to create PR**.
-read this below link:
-https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/
-+ Add your first file with file name `github_username.js` on the `peoples/` directory in that branch.
-+ Add code with your identity, ex:
+- Fork this repo, read https://help.github.com/articles/fork-a-repo/
+- Create branch with your github username, ex: `add-mazipan.js`. **Never use the `master` branch to create PR**.
+  read this below link:
+  https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/
+- Add your first file with file name `github_username.js` on the `peoples/` directory in that branch.
+- Add code with your identity, ex:
 
-```js 
+```js
 module.exports = {
-  name: 'YOUR_NAME',
-  github: 'XXX',
-  email: 'xxx@xxx.com',
-  twitter: '@xxx',
-  facebook: 'xxx',
-  linkedin: 'in/xxx'
-}
+  name: "YOUR_NAME",
+  github: "XXX",
+  email: "xxx@xxx.com",
+  twitter: "@xxx",
+  facebook: "xxx",
+  linkedin: "in/xxx"
+};
 ```
 
-+ Create Pull-Request to `master` branch in this repository, read https://help.github.com/articles/creating-a-pull-request/
-+ Don't forget to give 🌟 in this repository
-+ May you want to follow github [@mazipan](https://github.com/mazipan)
-+ Have fun and welcome to open source world.
+- Create Pull-Request to `master` branch in this repository, read https://help.github.com/articles/creating-a-pull-request/
+- Don't forget to give 🌟 in this repository
+- May you want to follow github [@mazipan](https://github.com/mazipan)
+- Have fun and welcome to open source world.
 
 ## Is this data collection?
 
@@ -49,6 +49,12 @@ node index.js caxvis # will return this person's named caxvis to you
 yarn purge
 ```
 
+You can specify a name(or more) to purge only those file(s)
+
+```shell
+yarn purge joe-bob kitty-luvr73
+```
+
 ## Do it with your own risk
 
 We don't collect the data, but there is chance for other people to abuse your data that is submitted here. Please do it with your own risk, **we don't protect your data**.
@@ -59,7 +65,6 @@ This repo will introduce you into Open Source flow, we expect you will know how 
 After you know the basics thing, we hope you will not stop here.
 Please keep contribute to any open source code.
 
-
-------
+---
 
 Copyright © 2018 **Irfan Maulana**

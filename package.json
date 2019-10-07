@@ -7,7 +7,7 @@
     "lint": "eslint \"**/*.js\" --ignore-pattern node_modules/",
     "fixlint": "eslint \"**/*.js\" --ignore-pattern node_modules/ --fix",
     "test": "echo \"not implement yet\"",
-    "purge": "rm -rf ./people"
+    "purge": "node ./purge"
   },
   "repository": {
     "type": "git",
