@@ -43,13 +43,17 @@ cd hello-open-source # cd into the repo
 node index.js caxvis # will return this person's named caxvis to you
 ```
 
-## How to purge all data
+## How to purge the data
+
+
+Purge all data
 
 ```shell
 yarn purge
 ```
 
 You can specify a name(or more) to purge only those file(s)
+
 ```shell
 yarn purge joe-bob kitty-luvr73
 ```
