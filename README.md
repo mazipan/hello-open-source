@@ -24,7 +24,8 @@ module.exports = {
 
 + Create Pull-Request to `master` branch in this repository, read https://help.github.com/articles/creating-a-pull-request/
 + Don't forget to give 🌟 in this repository
-+ May you want to follow github [@mazipan](https://github.com/mazipan)
++ You should follow github [@mazipan](https://github.com/mazipan)
++ I will check your PR and may add `invalid` label for PR that not follow the steps
 + Have fun and welcome to open source world.
 
 ## Is this data collection?
