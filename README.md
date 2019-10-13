@@ -1,6 +1,6 @@
 ﻿# Hello Open Source 🖐️
 
-👶 Repository for beginners that learn to contribute to open source project
+A repository to learn about open source code contributions flow (*for beginner only*)
 
 ## ❓ How to contribute
 
