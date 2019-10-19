@@ -13,18 +13,17 @@ cache:
 install:
   - yarn install
 script:
-  # - yarn run lint
-  # - yarn run test
-  - yarn run gen:ci
-after_script:
-  - npm install -g codecov
-  - codecov
+
+
+  - yarn purge
+  
+ 
 deploy:
   provider: pages
   skip-cleanup: true
   github-token: $GITHUB_TOKEN
   keep-history: true
-  local-dir: dist
+  
   verbose: true
   on:
     branch: master
