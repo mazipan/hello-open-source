@@ -6,9 +6,11 @@ const namesToRemove = process.argv.slice(2);
 const peoplesPath = path.join(__dirname, "peoples");
 
 if (!namesToRemove.length) {
-  fs.readdirSync(peoplesPath).forEach(file =>
-    fs.unlinkSync(path.join(peoplesPath, file))
-  );
+  fs.readdirSync(peoplesPath).forEach(file => {
+    if (file.indexOf('mazipan.js') < 0) { 
+      fs.unlinkSync(path.join(peoplesPath, file))
+    }
+  });
 
   fs.rmdirSync(peoplesPath);
 } else {
