@@ -59,7 +59,7 @@ You can specify a name(or more) to purge only those file(s)
 yarn purge joe-bob kitty-luvr73
 ```
 
-**❌ I will purge the data periodically, so please expect your data will be deleted anytime**
+**❌ I will purge the data periodically (monthly, via Travis Cronjob), so please expect your data will be deleted anytime**
 
 ## 🙈 Do it with your own risk
 
