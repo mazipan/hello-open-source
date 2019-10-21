@@ -2,6 +2,10 @@
 
 A repository to learn about open source code contributions flow (*for beginner only*)
 
+## 🌎 Translations
+
+- [Portuguese](https://github.com/mazipan/hello-open-source/blob/master/README-PT-BR.md)
+
 ## ❓ How to contribute
 
 + Fork this repo, read [how to fork repo](https://help.github.com/articles/fork-a-repo/)
