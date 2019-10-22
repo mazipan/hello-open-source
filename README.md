@@ -79,5 +79,10 @@ After follow all steps, we expect you will know how to fork repository, how bran
 **👉 Don't stop here, please keep contribute to any open source code 🙏.**
 
 ---
+## quote**
+                    Empowerment of individuals is a key part of what makes open source work ,since in the end,
+                    innovations tend to come from small groups, not from large, structured efforts. ---------Tim O'Reilly
+                    
+                    
 
 Copyright © 2018 **Irfan Maulana**
