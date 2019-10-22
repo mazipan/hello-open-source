@@ -5,9 +5,9 @@ A repository to learn about open source code contributions flow (_for beginner o
 ## 🌎 Translations
 
 - [Portuguese](https://github.com/mazipan/hello-open-source/blob/master/README-PT-BR.md)
-- [Chinese](https://github.com/mazipan/hello-open-source/blob/master/README-CHI-BR.md)
-- [Japanese](https://github.com/mazipan/hello-open-source/blob/master/README-JP-BR.md)
-- [Korean](https://github.com/mazipan/hello-open-source/blob/master/README-KR-BR.md)
+- [Chinese](https://github.com/mazipan/hello-open-source/blob/master/README-CHI.md)
+- [Japanese](https://github.com/mazipan/hello-open-source/blob/master/README-JP.md)
+- [Korean](https://github.com/mazipan/hello-open-source/blob/master/README-KR.md)
 
 ## ❓ How to contribute
 
