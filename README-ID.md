@@ -9,6 +9,7 @@ Sebuah repository untuk mempelajari kontribusi open source (_hanya untuk pemula_
 - [Japanese](https://github.com/mazipan/hello-open-source/blob/master/README-JP.md)
 - [Korean](https://github.com/mazipan/hello-open-source/blob/master/README-KR.md)
 - [Indonesian](https://github.com/mazipan/hello-open-source/blob/master/README-ID.md)
+- [German](https://github.com/mazipan/hello-open-source/blob/master/README-DE.md)
 
 ## ❓ Bagaimana cara berkontribusi
 
