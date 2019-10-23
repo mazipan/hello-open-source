@@ -10,6 +10,7 @@ A repository to learn about open source code contributions flow (_for beginner o
 - [Korean](https://github.com/mazipan/hello-open-source/blob/master/README-KR.md)
 - [Spanish](https://github.com/mazipan/hello-open-source/blob/master/README-ES.md)
 - [Indonesian](https://github.com/mazipan/hello-open-source/blob/master/README-ID.md)
+- [German](https://github.com/mazipan/hello-open-source/blob/master/README-DE.md)
 
 ## ❓ How to contribute
 
