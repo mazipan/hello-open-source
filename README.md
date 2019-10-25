@@ -63,7 +63,7 @@ Purge all data
 yarn purge
 ```
 
-You can specify a name(or more) to purge only those file(s)
+ You can specify a name(or more) to purge only those file(s)
 
 ```shell
 yarn purge joe-bob kitty-luvr73
