@@ -1,4 +1,4 @@
-﻿# Hello Open Source 🖐️
+﻿﻿# Hello Open Source 🖐️
 
 A repository to learn about open source code contributions flow (_for beginner only_)
 
