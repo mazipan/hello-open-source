@@ -3,7 +3,7 @@
 Repository เพื่อการศึกษาเกี่ยวกับการมีส่วนร่วมในปรับปรุง open source (_สำหรับมือใหม่เท่านั้น_)
 
 
-## 🌎 ภาษา
+## 🌎 ภาษาอื่น ๆ
 
 - [Portuguese](https://github.com/mazipan/hello-open-source/blob/master/README-PT-BR.md)
 - [Chinese](https://github.com/mazipan/hello-open-source/blob/master/README-CHI.md)
