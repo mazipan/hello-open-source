@@ -20,20 +20,20 @@ module.exports = {
 }
 ```
 
-+ Crie um Pull-Request para a  `master` branch no seu repositório, leia [Como criar um PR](https://help.github.com/articles/creating-a-pull-request/)
++ Crie um Pull-Request para a `master` branch no seu repositório, leia [Como criar um PR](https://help.github.com/articles/creating-a-pull-request/)
 + Não esqueça de dar 🌟 neste repositório, você pode conferir em [stargazers page](https://github.com/mazipan/hello-open-source/stargazers)
 + Você deve seguir o github [@mazipan](https://github.com/mazipan)
-+ Eu vou conferir seus PRs e vou **adicionar `invalid` label** and **fechar os PRs** Que não seguirem os passos listados
++ Eu vou conferir seus PRs e vou **adicionar `invalid` label** e **fechar os PRs** que não seguirem os passos listados
 + Se divirta e bem vindo ao mundo Open Source
 + Tenha em mente: qualidade é a primeira coisa quando criamos PRs.
 
 ## 💰 Tem coleta de dados?
 
-Não, este repositório é apenas para treinamento e aprendizado do gitflow e contribuição em projetos Open Source
+Não, este repositório é apenas para treinamento e aprendizado do gitflow e contribuição em projetos Open Source.
 
 ## 🥶 Eu preciso colocar meu nome real?
 
-Não, apenas coloque qualquer valor sem sentido, apenas queremos aprender sobre contribuição Open Source
+Não, apenas coloque qualquer valor sem sentido, apenas queremos aprender sobre contribuição Open Source.
 
 ## ⤵️ Como eu recupero dados de alguém?
 
@@ -45,7 +45,7 @@ node index.js caxvis # vai retornar caxvis para você
 
 ## 🗑️ Como deletar os dados
 
-Purge all data
+Limpar todos os dados
 
 ```shell
 yarn purge
@@ -61,7 +61,7 @@ yarn purge joe-bob kitty-luvr73
 
 ## 🙈 Por sua conta e risco!
 
-Nós não coletamos seus dados, mas tem uma chance de outras pessoas de abusad dos dados submetidos aqui. Por favor, assuma o risco pois: **Nós não protegemos seus dados**.
+Nós não coletamos seus dados, mas tem uma chance de outras pessoas de abusad dos dados submetidos aqui. Por favor, assuma o risco pois: **nós não protegemos seus dados**.
 
 ## 🚶 Próximo passo
 
