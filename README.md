@@ -1,4 +1,4 @@
-﻿﻿# Hello Open Source 🖐️
+﻿# Hello Open Source 🖐️
 
 A repository to learn about open source code contributions flow (_for beginner only_)
 
@@ -12,6 +12,7 @@ A repository to learn about open source code contributions flow (_for beginner o
 - [Indonesian](https://github.com/mazipan/hello-open-source/blob/master/README-ID.md)
 - [German](https://github.com/mazipan/hello-open-source/blob/master/README-DE.md)
 - [Russian](https://github.com/mazipan/hello-open-source/blob/master/README-RU.md)
+- [Thai](https://github.com/mazipan/hello-open-source/blob/master/README-TH.md)
 
 ## ❓ How to contribute
 
