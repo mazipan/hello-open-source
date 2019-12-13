@@ -1,7 +1,7 @@
 module.exports = {
   name: 'bqormosh',
   github: 'https://github.com/bqormosh',
-  email: '',
+  email: ' ',
   twitter: '',
   facebook: '',
   linkedin: ''
