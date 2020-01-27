@@ -14,9 +14,9 @@ script:
   - yarn purge
 deploy:
   provider: pages
-  skip-cleanup: true
-  github-token: $GITHUB_TOKEN
-  keep-history: true
+  cleanup: false
+  token: $GITHUB_TOKEN
+  keep_history: true
   target_branch: master
   verbose: true
   on:
