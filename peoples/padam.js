@@ -1,4 +1,4 @@
-module.export = {
+module.exports = {
 	name: 'Padam',
 	github: 'DeviantPadam',
 	email: 'padam.gupta14@gmail.com',
