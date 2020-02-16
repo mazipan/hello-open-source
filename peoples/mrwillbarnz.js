@@ -1,6 +1,6 @@
 module.exports = {
     name: 'Will Barnard',
-    github: '@mrwillbarnz',
+    github: 'mrwillbarnz',
     email: 'willbarnard687@pm.me',
     twitter: '@mrwillbarnz',
   };
