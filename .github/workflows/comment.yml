@@ -1,3 +1,5 @@
+name: Auto comment on issue created
+
 on:
   issue_comment:
     types: [created]
