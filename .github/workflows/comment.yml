@@ -14,7 +14,7 @@ jobs:
           issue-number: ${{ github.event.issue.number }}
           reaction-type: eyes
           body: |
-            Thank you for raising your pull request
+            ${{ github.actor }}, thank you for raising your pull request
             
             Please make sure you have followed @mazipan, and please push ⭐ button in this repository.
-            I may add label `invalid` and close your PR, if doesn't see your account staring this repository.
+            I might will add a label `invalid` and close your PR if doesn't see your account give the star to this repo.
