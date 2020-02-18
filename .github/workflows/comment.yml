@@ -1,0 +1,14 @@
+on:
+  issue_comment:
+    types: [created]
+jobs:
+  commentCreated:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Add reaction
+        uses: peter-evans/create-or-update-comment@v1
+        with:
+          token: ${{ secrets.GIT_TOKEN }}
+          comment-id: ${{ github.event.comment.id }}
+          reaction-type: eyes
+          msg: "Thank you for raising your pull request. Please make sure you have followed @mazipan, and please push ⭐ button in this repository. I may add label `invalid` and close your PR, if doesn't see your account staring this repository. 🙏"
