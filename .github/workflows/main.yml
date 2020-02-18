@@ -1,0 +1,47 @@
+name: Cron job purge data
+
+on:
+  schedule:
+  - cron: "0 14 * * 3"
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Setup node 12
+        uses: actions/setup-node@v1
+        with:
+          node-version: 12.x
+
+      - name: Get yarn cache
+        id: yarn-cache
+        run: echo "::set-output name=dir::$(yarn cache dir)"
+
+      - name: Cache Node.js modules
+        uses: actions/cache@v1
+        with:
+          path: ${{ steps.yarn-cache.outputs.dir }}
+          key: ${{ runner.OS }}-yarn-${{ hashFiles('**/yarn.lock') }}
+          restore-keys: |
+            ${{ runner.OS }}-yarn-
+
+      - name: Install dependencies
+        run: yarn
+
+      - name: Run purge
+        run: yarn purge
+
+      - name: Commit files report
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git commit -m "New generated report"
+
+      - name: GitHub Push
+        uses: ad-m/github-push-action@v0.5.0
+        with:
+          github_token: ${{ secrets.GIT_TOKEN }}
+          directory: ./peoples
