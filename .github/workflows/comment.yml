@@ -1,8 +1,9 @@
 name: Auto comment on issue created
 
 on:
-  issues:
-    types: [opened, edited]
+  pull_request:
+    branches:
+    - master
 jobs:
   commentCreated:
     runs-on: ubuntu-latest
