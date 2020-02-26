@@ -12,7 +12,7 @@ jobs:
         uses: peter-evans/create-or-update-comment@v1
         with:
           token: ${{ secrets.GIT_TOKEN }}
-          issue-number: ${{ github.event.issue.number }}
+          issue-number: ${{ github.event.pull_request.number }}
           reaction-type: eyes
           body: |
             @${{ github.actor }}, thank you for raising a pull request.
