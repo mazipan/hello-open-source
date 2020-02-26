@@ -8,7 +8,10 @@ jobs:
   purge_file:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v2      
+        with:
+         persist-credentials: false
+         fetch-depth: 0
 
       - name: Setup node 12
         uses: actions/setup-node@v1
@@ -38,9 +41,11 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
-          git commit -m "New generated report"
+          git commit -m "Purge data"
 
       - name: GitHub Push
         uses: ad-m/github-push-action@v0.5.0
         with:
+          force: true
+          directory: "."
           github_token: ${{ secrets.GIT_TOKEN }}
