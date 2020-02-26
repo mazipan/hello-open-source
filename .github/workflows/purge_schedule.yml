@@ -44,4 +44,3 @@ jobs:
         uses: ad-m/github-push-action@v0.5.0
         with:
           github_token: ${{ secrets.GIT_TOKEN }}
-          directory: ./peoples
