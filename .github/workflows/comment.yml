@@ -5,7 +5,7 @@ on:
     branches:
     - master
 jobs:
-  commentCreated:
+  auto_comment_on_pr:
     runs-on: ubuntu-latest
     steps:
       - name: Add new comment reaction
