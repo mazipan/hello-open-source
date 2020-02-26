@@ -5,7 +5,7 @@
   "main": "mazipan.js",
   "scripts": {
     "lint": "eslint \"**/*.js\" --ignore-pattern node_modules/",
-    "fixlint": "eslint \"**/*.js\" --ignore-pattern node_modules/ --fix",
+    "fixlint": "eslint \"./peoples/*.js\" --ignore-pattern node_modules/ --fix",
     "test": "echo \"not implement yet\"",
     "purge": "node ./purge"
   },
