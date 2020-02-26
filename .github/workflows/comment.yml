@@ -1,4 +1,4 @@
-name: Auto comment on issue created
+name: Auto comment
 
 on:
   pull_request:
