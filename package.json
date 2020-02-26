@@ -5,7 +5,7 @@
   "main": "mazipan.js",
   "scripts": {
     "lint": "eslint \"./peoples/*.js\" --ignore-pattern node_modules/",
-    "fixlint": "eslint \"./peoples/*.js\" --ignore-pattern node_modules/ --fix",
+    "lint:fix": "eslint \"./peoples/*.js\" --ignore-pattern node_modules/ --fix",
     "test": "echo \"not implement yet\"",
     "purge": "node ./purge"
   },
@@ -31,12 +31,6 @@
     "eslint-plugin-node": "^7.0.1",
     "eslint-plugin-promise": "^4.0.1",
     "eslint-plugin-standard": "^4.0.0",
-    "husky": "^1.1.1",
     "standard": "^12.0.1"
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "npm run fixlint"
-    }
   }
 }
