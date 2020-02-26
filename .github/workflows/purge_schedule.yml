@@ -36,7 +36,7 @@ jobs:
       - name: Run purge
         run: yarn purge
 
-      - name: Commit files report
+      - name: Commit changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
