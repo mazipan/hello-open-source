@@ -5,7 +5,7 @@ on:
   - cron: "0 14 * * 3"
 
 jobs:
-  test:
+  purge_file:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
