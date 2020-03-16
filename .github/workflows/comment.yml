@@ -11,7 +11,7 @@ jobs:
       - name: Add new comment reaction
         uses: peter-evans/create-or-update-comment@v1
         with:
-          token: ${{ secrets.GIT_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           issue-number: ${{ github.event.pull_request.number }}
           reaction-type: eyes
           body: |
