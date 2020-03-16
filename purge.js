@@ -16,6 +16,14 @@ if (!namesToRemove.length) {
       }
     }
   });
+  
+  fs.writeFile(`${peoplesPath}/LAST_UPDATE`, `${new Date().toISOString()}`, function (err) {
+    if (err) {
+      console.error(err);
+    } else {
+      console.log('File "LAST_UPDATE" is updated successfully.');
+    }
+  });
 } else {
   namesToRemove.forEach(name => {
     try {
