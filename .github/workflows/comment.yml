@@ -2,10 +2,13 @@ name: Auto comment
 
 on:
   pull_request:
-    branches:
-    - master
+    types:
+    - opened
+    - synchronize
+
 jobs:
-  auto_comment_on_pr:
+  
+  auto_comment_on_open_pr:
     runs-on: ubuntu-latest
     steps:
       - name: Add new comment reaction
