@@ -1,4 +1,4 @@
-name: Auto merge PR
+name: Check mergeable
 
 on:
   pull_request:
@@ -20,7 +20,7 @@ on:
   status: {}
 
 jobs:
-  automerge:
+  check_status:
     runs-on: ubuntu-latest
     steps:
       - name: Auto merge pull requests
