@@ -1,2 +1,4 @@
 automerge:
- - ./*
+ - **/*.js
+ - **/*.md
+ - **/.gitignore
