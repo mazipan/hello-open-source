@@ -11,10 +11,10 @@ jobs:
   auto_comment:
     runs-on: ubuntu-latest
     steps:
-      - name: Add automerge label
-        uses: actions/labeler@v2
-        with:
-          repo-token: "${{ secrets.GITHUB_TOKEN }}"
+      #- name: Add automerge label
+      #  uses: actions/labeler@v2
+      #  with:
+      #    repo-token: "${{ secrets.GITHUB_TOKEN }}"
 
       - name: Add comment and reaction
         uses: peter-evans/create-or-update-comment@v1
