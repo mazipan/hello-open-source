@@ -5,15 +5,15 @@ A repository to learn about open source code contributions flow (_for beginner o
 
 ## 🌎 Translations
 
-- [Portuguese](https://github.com/mazipan/hello-open-source/blob/master/README-PT-BR.md)  (**Português**)
-- [Chinese](https://github.com/mazipan/hello-open-source/blob/master/README-CHI.md) (**中文**)
-- [Japanese](https://github.com/mazipan/hello-open-source/blob/master/README-JP.md) (**日本人**)
-- [Korean](https://github.com/mazipan/hello-open-source/blob/master/README-KR.md) (**한국어**)
-- [Spanish](https://github.com/mazipan/hello-open-source/blob/master/README-ES.md) (**Española**)
-- [Indonesian](https://github.com/mazipan/hello-open-source/blob/master/README-ID.md)(**bahasa Indonesia**)
-- [German](https://github.com/mazipan/hello-open-source/blob/master/README-DE.md) (**Deutsche**)
-- [Russian](https://github.com/mazipan/hello-open-source/blob/master/README-RU.md) (**русский**)
-- [Thai](https://github.com/mazipan/hello-open-source/blob/master/README-TH.md) (**ไทย**)
+- [▶ Portuguese](https://github.com/mazipan/hello-open-source/blob/master/README-PT-BR.md)  (**Português**)
+- [▶ Chinese](https://github.com/mazipan/hello-open-source/blob/master/README-CHI.md) (**中文**)
+- [▶ Japanese](https://github.com/mazipan/hello-open-source/blob/master/README-JP.md) (**日本人**)
+- [▶ Korean](https://github.com/mazipan/hello-open-source/blob/master/README-KR.md) (**한국어**)
+- [▶ Spanish](https://github.com/mazipan/hello-open-source/blob/master/README-ES.md) (**Española**)
+- [▶ Indonesian](https://github.com/mazipan/hello-open-source/blob/master/README-ID.md)(**bahasa Indonesia**)
+- [▶ German](https://github.com/mazipan/hello-open-source/blob/master/README-DE.md) (**Deutsche**)
+- [▶ Russian](https://github.com/mazipan/hello-open-source/blob/master/README-RU.md) (**русский**)
+- [▶ Thai](https://github.com/mazipan/hello-open-source/blob/master/README-TH.md) (**ไทย**)
 
 ## ❓ How to contribute
 
