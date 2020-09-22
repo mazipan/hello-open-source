@@ -1,8 +1,8 @@
 module.exports = {
-    name: 'NIVEDITA SINGH',
-    github: 'https://github.com/Nivedita967',
-    email: 'nivedita19390@gmail.com',
-    twitter: 'https://twitter.com/Nivedit95025806',
+    name: 'NIVEDITA',
+    github: 'https://github.com/',
+    email: '_@gmail.com',
+    twitter: '',
     facebook: '',
     linkedin: ''
   };
