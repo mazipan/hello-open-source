@@ -83,7 +83,7 @@ yarn purge joe-bob kitty-luvr73
 ## 🚶 Next Step
 
 This repo is only introduce you to open source code contribution flow.
-After following all steps here, we expect you will have a basic knowledge in how to fork repository, how branching works, how to create a good pull request and other things about contribution to open source code 🥳.
+After following all steps here, we expect you will have a basic knowledge in how to fork repository, how a git branch works, how to create a good pull request and other basic things to make your next contribution in open source code 🥳.
 
 **👉 Don't stop here, keep contribute to open source code**
 
