@@ -45,11 +45,16 @@ module.exports = {
 
 ## 💰 Is this data collection?
 
-No, this is only for learning purpose about git flow and open source contribution process.
+No, this is for learning purpose only.
 
 ## 🥶 Do I need to attach my real name?
 
-No, just put any data. Non-sense, we just wanna learn about open source contribution.
+No, just put any data. Non-sense, we just want to learn a flow to contribute in open source code.
+
+## 🙈 Do it with your own risk
+
+We don't collect the data, but there is chance for other people to abuse your data that is submitted here. 
+Please do it with your own risk, **we don't protect your data**.
 
 ## ⤵️ How do I retrieve someone's data?
 
@@ -59,32 +64,28 @@ cd hello-open-source # cd into the repo
 node index.js caxvis # will return this person's named caxvis to you
 ```
 
-## 🗑️ How to purge the data
+## 🗑️ How to remove my data?
 
-Purge all data
+Remove all data
 
 ```shell
 yarn purge
 ```
 
- You can specify a name(or more) to purge only those file(s)
+You can specify a name (or more) to remove only those file(s)
 
 ```shell
 yarn purge joe-bob kitty-luvr73
 ```
 
-**❌ I will purge the data periodically (monthly, via Travis Cronjob), so please expect your data will be deleted anytime**
-
-## 🙈 Do it with your own risk
-
-We don't collect the data, but there is chance for other people to abuse your data that is submitted here. Please do it with your own risk, **we don't protect your data**.
+**❌ I will purge the data periodically (weekly, via a Cronjob), so your data will be deleted periodically.**
 
 ## 🚶 Next Step
 
-This repo is for introduce to open source code contribution flow.
-After follow all steps, we expect you will know how to fork repository, how branching works, how to create good pull request and other things about contribution to open source code 🥳.
+This repo is only introduce you to open source code contribution flow.
+After following all steps here, we expect you will have a basic knowledge in how to fork repository, how branching works, how to create a good pull request and other things about contribution to open source code 🥳.
 
-**👉 Don't stop here, please keep contribute to any open source code 🙏.**
+**👉 Don't stop here, keep contribute to open source code**
 
 ---
 
