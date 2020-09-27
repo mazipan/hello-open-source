@@ -9,10 +9,10 @@ A repository to learn about open source code contributions flow (_for beginner o
 
 - [Chinese](https://github.com/mazipan/hello-open-source/blob/master/README-CHI.md) (**中文**)
 - [German](https://github.com/mazipan/hello-open-source/blob/master/README-DE.md) (**Deutsche**)
-- [Indonesian](https://github.com/mazipan/hello-open-source/blob/master/README-ID.md)(**Bahasa Indonesia**)
+- [Indonesian](https://github.com/mazipan/hello-open-source/blob/master/README-ID.md) (**Bahasa Indonesia**)
 - [Japanese](https://github.com/mazipan/hello-open-source/blob/master/README-JP.md) (**日本人**)
 - [Korean](https://github.com/mazipan/hello-open-source/blob/master/README-KR.md) (**한국어**)
-- [Portuguese](https://github.com/mazipan/hello-open-source/blob/master/README-PT-BR.md)  (**Português**)
+- [Portuguese](https://github.com/mazipan/hello-open-source/blob/master/README-PT-BR.md) (**Português**)
 - [Russian](https://github.com/mazipan/hello-open-source/blob/master/README-RU.md) (**русский**)
 - [Spanish](https://github.com/mazipan/hello-open-source/blob/master/README-ES.md) (**Española**)
 - [Thai](https://github.com/mazipan/hello-open-source/blob/master/README-TH.md) (**ไทย**)
