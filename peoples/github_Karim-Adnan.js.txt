@@ -1,0 +1,8 @@
+module.exports = {
+  name: 'Adnan Karim',
+  github: 'https://github.com/Karim-Adnan',
+  email: 'kaif.adnan05.com',
+  twitter: 'adnankarim14',
+  facebook: 'Adnan.The.Singer',
+  linkedin: 'in/adnan-karim-5ab270194'
+};
