@@ -1,0 +1,8 @@
+module.exports = {
+  name: 'Gilbert Neil',
+  github: 'ajailani4',
+  email: 'wow@wow.com',
+  twitter: '@gilbert',
+  facebook: 'Gilbert',
+  linkedin: 'in/Gilbert'
+};
