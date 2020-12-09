@@ -1,5 +1,5 @@
 ﻿# Hello Open Source 🖐️
- 
+
 
 A repository to learn about open source code contributions flow (_for beginner only_)
 
@@ -22,7 +22,7 @@ A repository to learn about open source code contributions flow (_for beginner o
 - Fork this repo, read [how to fork repo](https://help.github.com/articles/fork-a-repo/)
 - Create branch with your github username, ex: `add-mazipan.js`. **Never use the `master` branch to create PR**.
   read [how creating branch](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/)
-- Add your first file with file name `github_username.js` on the `peoples/` directory in that branch.
+- Add your first file with file name `github_username.js` on the `people/` directory in that branch.
 - Add code with your identity, ex:
 
 ```js
@@ -53,7 +53,7 @@ No, just put any data. Non-sense, we just want to learn a flow to contribute in 
 
 ## 🙈 Do it with your own risk
 
-We don't collect the data, but there is chance for other people to abuse your data that is submitted here. 
+We don't collect the data, but there is chance for other people to abuse your data that is submitted here.
 Please do it with your own risk, **we don't protect your data**.
 
 ## ⤵️ How do I retrieve someone's data?
