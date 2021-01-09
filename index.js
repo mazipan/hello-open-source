@@ -4,7 +4,7 @@ const print = console.log
 
 function retrieveData (name) {
   try {
-    const file = require(`./peoples/${name}.js`)
+    const file = require(`./people/${name}.js`)
     return file
   } catch(e) {
     console.error(e)
