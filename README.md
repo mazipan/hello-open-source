@@ -5,7 +5,7 @@ A repository to learn about open source code contributions flow (_for beginner o
 
 ## 🌎 Translations
 
-*Sort by alphabet*
+*Sorted alphabetically*
 
 - [Chinese](https://github.com/mazipan/hello-open-source/blob/master/README-CHI.md) (**中文**)
 - [German](https://github.com/mazipan/hello-open-source/blob/master/README-DE.md) (**Deutsche**)
@@ -20,10 +20,12 @@ A repository to learn about open source code contributions flow (_for beginner o
 ## ❓ How to contribute
 
 - Fork this repo, read [how to fork repo](https://help.github.com/articles/fork-a-repo/)
-- Create branch with your github username, ex: `add-mazipan.js`. **Never use the `master` branch to create PR**.
-  read [how creating branch](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/)
-- Add your first file with file name `github_username.js` on the `people/` directory in that branch.
-- Add code with your identity, ex:
+- Checkout your forked repo to your computer, read [how to clone repo](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
+- Create a new `branch` with your github username as a branch name, example: `add-mazipan.js`. **Do NOT use the `master` or `main` branch when you will create a Pull Request**.
+  read article about [how to creating a branch](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/)
+- Make sure you are on the new branch, type a command: `git branch --show-current`
+- Add your first file with this name `github_username.js` on the `people` directory inside your new branch.
+- Add these code in your new file:
 
 ```js
 module.exports = {
@@ -36,25 +38,29 @@ module.exports = {
 };
 ```
 
-- Create Pull-Request to `master` branch in this repository, read [how creating PR](https://help.github.com/articles/creating-a-pull-request/)
-- Don't forget to give 🌟 in this repository, you can check in [stargazers page](https://github.com/mazipan/hello-open-source/stargazers)
-- You should follow github [@mazipan](https://github.com/mazipan)
-- I will check your PRs and will **add `invalid` label** and **close the PRs** that not follow the steps
-- Have fun and welcome to open source world.
-- Keep in mind, quality is always number one when creating PRs.
+- Create a pull request to `master` branch in this repository, read [how creating pull request](https://help.github.com/articles/creating-a-pull-request/)
+- Don't forget to give your 🌟 to this repository, you can check in [stargazers page](https://github.com/mazipan/hello-open-source/stargazers)
+- Help me to follow github [@mazipan](https://github.com/mazipan)
+- I will check your PRs, and will **add `invalid` label** and **close the PRs** those not following the steps correctly
+- Have fun, and welcome to the open source world.
+- Keep in mind, quality is always number one when creating PRs, read the instructions carefully.
 
-## 💰 Is this data collection?
 
-No, this is for learning purpose only.
+## 💰 Is this a data collection?
+
+No, this repo is intended for learning purpose.
 
 ## 🥶 Do I need to attach my real name?
 
-No, just put any data. Non-sense, we just want to learn a flow to contribute in open source code.
+No, you can put a fake data. 
+We just want to learn about a contributtion flow in the open source ecosystem.
 
 ## 🙈 Do it with your own risk
 
-We don't collect the data, but there is chance for other people to abuse your data that is submitted here.
-Please do it with your own risk, **we don't protect your data**.
+We don't collect any data.
+But there is a chance for other people to abuse your data.
+Please do it with your own risk.
+**We don't protect your data**.
 
 ## ⤵️ How do I retrieve someone's data?
 
@@ -78,15 +84,15 @@ You can specify a name (or more) to remove only those file(s)
 yarn purge joe-bob kitty-luvr73
 ```
 
-**❌ I will purge the data periodically (weekly, via a Cronjob), so your data will be deleted periodically.**
+**❌ I will delete the data periodically.**
 
 ## 🚶 Next Step
 
-This repo is only introduce you to open source code contribution flow.
-After following all steps here, we expect you will have a basic knowledge in how to fork repository, how a git branch works, how to create a good pull request and other basic things to make your next contribution in open source code 🥳.
+This repo will introduce to open source contribution flow.
+After finishing all steps here, we expect you will have a basic knowledge in how to fork repository, know how a git branch works, how to create a good pull request and other basic things to make your next contribution in open source code 🥳.
 
-**👉 Don't stop here, keep contribute to open source code**
+**👉 Do NOT stop here, keep contribute to open source code**
 
 ---
 
-Copyright © 2018 **Irfan Maulana**
+Copyright © 2018-2021 **Irfan Maulana**
