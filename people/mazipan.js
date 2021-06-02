@@ -1,4 +1,3 @@
-
 module.exports = {
   name: 'YOUR_NAME',
   github: 'XXX',
