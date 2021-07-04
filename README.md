@@ -22,9 +22,11 @@ A repository to learn about open source code contributions flow (_for beginner o
 - Fork this repo, read [how to fork repo](https://help.github.com/articles/fork-a-repo/)
 - Checkout your forked repo to your computer, read [how to clone repo](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
 - Create a new `branch` with your github username as a branch name, example: `add-mazipan.js`. 
-  You can use command: `git checkout -b YourUsername/YourBranchName`, ex: `git checkout -b mazipan/add-mazipan`
-  **DO NOT use `master` or `main` branch to create a Pull Request**.
-  Read article about [how to creating a branch](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/)
+- You can use command: `git checkout -b YourUsername/YourBranchName`, ex: `git checkout -b mazipan/add-mazipan`
+  
+> **DO NOT use `master` or `main` branch to create a Pull Request**.
+> Read article about [how to creating a branch](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/)
+
 - Make sure you are on the new branch, use this command to check your current branch: `git branch --show-current`
 - Add your first file with this name `github_username.js` on the `people` directory inside your new branch.
 - Add these code in your new file:
