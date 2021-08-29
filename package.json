@@ -4,8 +4,8 @@
   "description": "Repository for beginners that learn to contribute to open source project",
   "main": "mazipan.js",
   "scripts": {
-    "lint": "eslint \"./peoples/*.js\" --ignore-pattern node_modules/",
-    "lint:fix": "eslint \"./peoples/*.js\" --ignore-pattern node_modules/ --fix",
+    "lint": "eslint \"./people/*.js\" --ignore-pattern node_modules/",
+    "lint:fix": "eslint \"./people/*.js\" --ignore-pattern node_modules/ --fix",
     "test": "echo \"not implement yet\"",
     "purge": "node ./purge"
   },
