@@ -2,7 +2,7 @@ version = 1
 
 [merge]
 
-automerge_label = automerge
+automerge_label: 'automerge'
 require_automerge_label = true
 
 [update]
