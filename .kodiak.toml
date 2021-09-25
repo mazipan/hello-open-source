@@ -1,5 +1,10 @@
 version = 1
 
+[merge]
+
+automerge_label = Updated name .json
+require_automerge_label = true
+
 [update]
 always = true # default: false
 ignored_usernames = ["dependabot", "snyk-bot"]
