@@ -3,7 +3,7 @@ version = 1
 [merge]
 
 automerge_label: "automerge"
-require_automerge_label = true
+require_automerge_label = false
 
 [update]
 always = true # default: false
