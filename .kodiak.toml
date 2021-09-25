@@ -2,7 +2,7 @@ version = 1
 
 [merge]
 
-automerge_label = Updated name .json
+automerge_label = automerge
 require_automerge_label = true
 
 [update]
