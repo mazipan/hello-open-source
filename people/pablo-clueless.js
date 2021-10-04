@@ -3,6 +3,6 @@ module.exports = {
     github: 'pablo-clueless',
     email: 'pablo-clueless@outlook.com',
     twitter: '@pablo_clueless',
-    facebook: 'xxx',
+    facebook: 'Samson Olawale Okunola',
     linkedin: 'in/xxx'
   }
