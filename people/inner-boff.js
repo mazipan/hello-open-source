@@ -5,4 +5,4 @@ module.exports = {
   twitter: '@innerboff',
   facebook: 'Cosme Fulanito',
   linkedin: 'in/Pepito de los Palotes'
-};
+}
