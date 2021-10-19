@@ -1,9 +1,8 @@
 module.exports = {
   name: 'Pamelux',
   github: 'inner-boff',
-  email: 'xxx@xxx.com',
+  email: 'mmm@nnnn.com',
   twitter: '@innerboff',
-  facebook: 'xxx',
-  linkedin: 'in/xxx'
+  facebook: 'Cosme Fulanito',
+  linkedin: 'in/Pepito de los Palotes'
 };
-
