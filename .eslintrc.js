@@ -8,5 +8,7 @@ module.exports = {
   parserOptions: {
     ecmaVersion: 8
   },
-  rules: {}
+  rules: {
+    'space-before-function-paren': ['error', 'never']
+  }
 }
