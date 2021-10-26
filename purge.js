@@ -17,7 +17,7 @@ if (!namesToRemove.length) {
     }
   })
 
-  fs.writeFile(`${peoplesPath}/LAST_UPDATE`, `${new Date().toISOString()}`, function (err) {
+  fs.writeFile(`${peoplesPath}/LAST_UPDATE`, `${new Date().toISOString()}`, function(err) {
     if (err) {
       console.error(err)
     } else {
