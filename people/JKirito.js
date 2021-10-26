@@ -5,4 +5,4 @@ module.exports = {
   twitter: 'https://twitter.com/Jkirito7',
   facebook: 'Arpit Singh',
   linkedin: 'in/arpitsingh-jkirito'
-  };
+}
