@@ -5,4 +5,4 @@ module.exports = {
   twitter: '@SyedZawwarAhmed',
   facebook: 'https://www.facebook.com/zawwar.ahmed.3/',
   linkedin: 'in/syed-zawwar-ahmed-b7345a1b8/'
-};
+}
