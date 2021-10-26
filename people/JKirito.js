@@ -4,5 +4,5 @@ module.exports = {
   email: 'byrxarpitsingh@gmail.com',
   twitter: 'https://twitter.com/Jkirito7',
   facebook: 'Arpit Singh',
-  linkedin: 'in/arpitsingh-jkirito',
+  linkedin: 'in/arpitsingh-jkirito'
 };
