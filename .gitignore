@@ -66,3 +66,4 @@ typings/
 # mac stuff
 
 .DS_Store
+/build
