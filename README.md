@@ -16,6 +16,7 @@ A repository to learn about open source code contributions flow (_for beginner o
 - [Russian](https://github.com/mazipan/hello-open-source/blob/master/README-RU.md) (**русский**)
 - [Spanish](https://github.com/mazipan/hello-open-source/blob/master/README-ES.md) (**Española**)
 - [Thai](https://github.com/mazipan/hello-open-source/blob/master/README-TH.md) (**ไทย**)
+- [Urdu](https://github.com/mazipan/hello-open-source/blob/master/README-UR.md) (**اردو**)
 
 ## ❓ How to contribute
 
