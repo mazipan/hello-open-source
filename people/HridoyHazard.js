@@ -4,5 +4,5 @@ module.exports = {
   email: 'hridoyhazard47@gmail.com',
   twitter: '-',
   facebook: '-',
-  linkedin: '-'
+  linkedin: '-',
 };
