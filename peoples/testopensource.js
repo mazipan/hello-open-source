@@ -1,8 +1,8 @@
 module.exports = {
-  name: "testopensource",
-  github: "testopensource",
-  email: "testopensource@testopensource.com",
-  twitter: "#test",
-  facebook: "test",
-  linkedin: "in/test"
-}
+  name: "krinish",
+  github: "krinis291",
+  email: "radadiyakrinish29@gmail.com",
+  twitter: "R291krinish",
+  facebook: "-",
+  linkedin: "in/krinish-radadiya-035425190",
+};
