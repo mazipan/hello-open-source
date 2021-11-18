@@ -2,7 +2,7 @@ name: Cron job purge data
 
 on:
   schedule:
-  - cron: "0 14 * * 3"
+  - cron: "0 14 1 * *"
 
 jobs:
   purge_file:
