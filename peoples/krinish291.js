@@ -1,5 +1,5 @@
 module.exports = {
-  name: 'krinish",
+  name: 'krinish',
   github: 'krinis291',
   email: 'radadiyakrinish29@gmail.com',
   twitter: 'R291krinish',
