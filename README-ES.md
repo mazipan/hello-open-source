@@ -7,7 +7,7 @@ Un repositorio para aprender acerca del flujo para contribuir al código abierto
 - Hazle _fork_ a este repositorio, lee [¿Cómo hacer fork a un repositorio?](https://help.github.com/articles/fork-a-repo/)
 - Crea una rama con tu nombre de usuario de github, por ejemplo: `add-mazipan.js`. **Nunca uses la rama `master` para crear un PR**.
   lee [cómo crear una rama](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/)
-- Agrega tu primer archivo con el nombre `github_nombredeusuario.js` en el directorio `peoples/` de esa rama.
+- Agrega tu primer archivo con el nombre `github_nombredeusuario.js` en el directorio `people/` de esa rama.
 - Agrega código con información acerca de ti. Por ejemplo: 
 
 ```js
