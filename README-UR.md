@@ -33,7 +33,7 @@
 
 - اس بات کی تسلی کر لیجیے کہ آپ اپنی نئی برانچ میں ہیں۔ برانچ چیک کرنے کے لیے یہ کمانڈ چلائیں: `git branch --show-current`
 - اپنی برانچ میں رہتے ہوئے پیپلز ڈائریکٹری میں ایک فائل بنائیں۔ 
-- go to `peoples` directory and create a new file `github_username.js`
+- go to `people` directory and create a new file `github_username.js`
 - اس فائل میں نیچے دیا گیا کوڈ لکھ دیجیے
 
 ```js
