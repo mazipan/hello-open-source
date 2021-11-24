@@ -7,7 +7,7 @@
 - この倉庫をフォークし、読む[分岐する方法](https://help.github.com/articles/fork-a-repo/)
 - たとえば、github ユーザー名でブランチを作成します: `add-mazipan.js`. **使用しない `master` ブランチを作成 PR**.
 - たとえば、GitHub ユーザー名でブランチを作成します: `add-mazipan.js`. **使用しない `master` ブランチとして PR**. 続きを読む [ブランチを作成する方法](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/)
-- 名前ファイルに名前を追加します `github_username.js` カタログ内 `peoples/` 支店内
+- 名前ファイルに名前を追加します `github_username.js` カタログ内 `people/` 支店内
 - たとえば、ID を使用してコードを追加します:
 - ID を使用してコードを追加します。たとえば:
 
