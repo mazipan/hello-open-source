@@ -19,7 +19,7 @@ Repozytorium pokazujące jak działa flow Open Source (_tylko dla nowicjuszy_)
 - Stwórz branch z nazwą uzytkownika, np: `add-mazipan.js`. 
 **Nigdy nie uzywaj branch'a `master` do stworzenia PR**.
   przeczytaj [jak stworzyć branch](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/)
-- Dodaj swój pierwszy plik z nazwą `github_username.js` w katalogu `peoples/` na twoim branchu.
+- Dodaj swój pierwszy plik z nazwą `github_username.js` w katalogu `people/` na twoim branchu.
 - Dodaj kod z twoimi danymi, np:
 
 ```js
