@@ -5,4 +5,4 @@ module.exports = {
   twitter: '@xxx',
   facebook: 'xxx',
   linkedin: 'in/xxx'
-};
+}
