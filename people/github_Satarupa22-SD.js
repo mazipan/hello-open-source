@@ -5,4 +5,4 @@ module.exports = {
   twitter: 'none',
   facebook: 'none',
   linkedin: 'in/satarupa-deb-'
-};
+}
