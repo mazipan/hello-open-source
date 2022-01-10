@@ -5,5 +5,4 @@ module.exports = {
   twitter: 'https://twitter.com/aniketh_88',
   facebook: 'None',
   linkedin: 'https://www.linkedin.com/in/aniketh-paul-7728691bb/'
-};
-
+}
