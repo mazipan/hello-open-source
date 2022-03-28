@@ -7,7 +7,7 @@
 - 叉此仓库，阅读[如何分叉回购](https://help.github.com/articles/fork-a-repo/)
 - 使用您的 github 用户名创建分支，例如: `add-mazipan.js`. **切勿使用 `master` 创建分支 PR**.
 - 使用您的 GitHub 用户名创建一个分支，例如: `add-mazipan.js`. **永远不要使用 `master` 作为创建分支 PR**. 继续阅读 [如何创建分支](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/)
-- 在名称文件中添加您的名字 `github_username.js` 在目录中 `peoples/` 在分支内
+- 在名称文件中添加您的名字 `github_username.js` 在目录中 `people/` 在分支内
 - 使用您的身份添加代码，例如:
 - 添加带有您的身份的代码，例如:
 

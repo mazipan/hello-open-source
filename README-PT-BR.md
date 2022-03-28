@@ -6,7 +6,7 @@ Um repositório para aprender sobre o fluxo de colaboração em projetos Open So
 
 + Faça fork deste repositório, leia [como fazer um fork](https://help.github.com/articles/fork-a-repo/)
 + Crie um branch com seu nome de usuário do GitHub, ex: `add-mazipan.js`. **Nunca use `master` como branch para criar o PR**. Leia [como criar branches](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/)
-+ Adicione seu primeiro nome com o arquivo de nome `github_username.js` no diretório `peoples/` dentro do branch.
++ Adicione seu primeiro nome com o arquivo de nome `github_username.js` no diretório `people/` dentro do branch.
 + Adicione o código com a sua identidade, ex:
 
 ```js 

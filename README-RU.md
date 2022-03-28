@@ -19,7 +19,7 @@
 - Форкните этот репозиторий, прочитайте [как форкать репозиторий](https://help.github.com/articles/fork-a-repo/)
 - Создайте ветку с вашим юзернеймом в github, например: `add-mazipan.js`. **Никогда не используйте ветку `master` для создания pull requests**.
   Прочитайте о том, [как создать ветку](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/)
-- Добавьте ваш первый файл с именем файла`github_username.js` в папку `peoples/` в этой ветке.
+- Добавьте ваш первый файл с именем файла`github_username.js` в папку `people/` в этой ветке.
 - Добавьте код с информацией о себе, например:
 
 ```js

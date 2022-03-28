@@ -16,7 +16,7 @@ Sebuah repository untuk mempelajari kontribusi open source (_hanya untuk pemula_
 - Fork repository ini, baca lebih lanjut disini [bagaimana caranya mem-fork sebuah repo](https://help.github.com/articles/fork-a-repo/)
 - Buatlah branch dengan nama pengguna github mu, contohnya: `add-mazipan.js`. **Jangan pernah gunakan branch `master` untuk membuat PR**.
   baca [bagaimana caranya membuat branch](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/)
-- Buatlah file pertamamu dengan nama file `nama_pengguna_github.js` di dalam folder `peoples/` di branch tersebut.
+- Buatlah file pertamamu dengan nama file `nama_pengguna_github.js` di dalam folder `people/` di branch tersebut.
 - tambahkan kode dengan identitasmu, contohnya:
 
 ```js

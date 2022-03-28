@@ -6,7 +6,7 @@
 
 - 본 저장소를 포크한다. [포크 가이드](https://help.github.com/articles/fork-a-repo/)
 - 자신의 github 아이디로 브랜치를 딴다, ex: `add-mazipan.js`. **절대 `master` 브랜치로 풀 리퀘스트를 하지 말 것** [브랜치 가이드](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/)
-- 새 파일을 github 아이디로 만들어 (`github_username.js`) 다음과 같이 작성해 `peoples/`에 추가한다:
+- 새 파일을 github 아이디로 만들어 (`github_username.js`) 다음과 같이 작성해 `people/`에 추가한다:
 
 ```js
 module.exports = {
