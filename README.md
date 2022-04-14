@@ -72,7 +72,7 @@ Please do it with your own risk.
 ```shell
 git clone https://github.com/mazipan/hello-open-source # clone the repo
 cd hello-open-source # cd into the repo
-node index.js caxvis # will return this person's named caxvis to you
+node index.js github_milan960 # will return this person's named github_milan960 to you
 ```
 
 ## 🗑️ How to remove my data?
