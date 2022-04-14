@@ -6,3 +6,4 @@ module.exports = {
     facebook: 'hahaha',
     linkedin: 'in/whatever'
   }
+  
