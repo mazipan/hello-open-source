@@ -1,4 +1,4 @@
-module.exports ={
+module.exports = {
  name: 'Aswin G Menon',
  github: 'ryonekura',
  email: 'xxx@xxx.com',
