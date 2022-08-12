@@ -1,0 +1,1 @@
+module.exports = { name: 'Aryan Jagadale', github: 'https://github.com/Aryan-Jagadale', email: 'arn@gmail.com', twitter: 'Aryan-Jagadale', facebook: 'xxx', linkedin: 'in/xxx' }
