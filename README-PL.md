@@ -13,7 +13,7 @@ Repozytorium pokazujące jak działa flow Open Source (_tylko dla nowicjuszy_)
 - [Niemiecki](https://github.com/mazipan/hello-open-source/blob/master/README-DE.md)
 - [Polski](https://github.com/mazipan/hello-open-source/blob/master/README-PL.md)
 
-## ❓ Jak wnieść swoją cegiełke
+## ❓ Jak wnieść swoją cegiełkę
 
 - Zrób fork repozytorium, przeczytaj [jak zrobić fork repozytorium](https://help.github.com/articles/fork-a-repo/)
 - Stwórz branch z nazwą uzytkownika, np: `add-mazipan.js`. 
@@ -38,7 +38,7 @@ module.exports = {
 - Powinieneś polubić github [@mazipan](https://github.com/mazipan)
 - Sprawdzę twój pull request **dodam  etykietę `invalid`** i **zamknę ten PRs** który nie spełnia wymagań
 - Witaj w świecie Open Source, baw się dobrze.
-- Zapamiętaj, jakość PR jest najwazniejsza.
+- Zapamiętaj, jakość PR jest najważniejsza.
 
 ## 💰 Czy to jest kolekcja danych?
 
@@ -64,23 +64,23 @@ Wyczyść wszystkie dane
 yarn purge
 ```
 
-Mozesz sprecyzować co chcesz usunąć
+Możesz sprecyzować co chcesz usunąć
 
 ```shell
 yarn purge joe-bob kitty-luvr73
 ```
 
-**❌ Usuwam dane kazdego tygodnia lub miesiąca więc spodziewaj się usunięcia Twoich danych**
+**❌ Usuwam dane każdego tygodnia lub miesiąca, więc spodziewaj się usunięcia Twoich danych**
 
 ## 🙈 Robisz to na własne ryzyko
 
-Nie zbieramy danych, ale pamiętaj, ze inni mogą chcieć je wykorzystać do własnych celów 
+Nie zbieramy danych, ale pamiętaj, że inni mogą chcieć je wykorzystać do własnych celów 
 **nie chronimy Twoich danych**.
 
 ## 🚶 Następny krok
 
-To repozytorium słuzy do pokazania idei Open Source.
-Spodziewamy się, ze po przeczytaniu będziesz wiedział jak zrobić fork repozytorium oraz jak działają branche
+To repozytorium służy do pokazania idei Open Source.
+Spodziewamy się, że po przeczytaniu będziesz wiedział jak zrobić fork repozytorium oraz jak działają branche
 oraz jak dodać pull request oraz inne dobre rzeczy związane z rozwojem oprogramowania.
 
 **👉 Nie zatrzymuj się na tym, próbuj uczestniczyć w tworzeniu Open Source 🙏.**
