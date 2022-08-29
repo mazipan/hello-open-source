@@ -4,4 +4,4 @@ module.exports = {
   email: 'banerjeesoumya15@gmail.com',
   twitter: '@soumya_data',
   linkedin: 'in/soumya-shankar-banerjee/'
-};
+}
