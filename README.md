@@ -1,30 +1,29 @@
 ﻿# Hello Open Source 🖐️
 
-
 A repository to learn about open source code contributions flow (_for beginner only_)
 
 ## 🌎 Translations
 
-*Sorted alphabetically*
+_Sorted alphabetically_
 
-- [Chinese](https://github.com/mazipan/hello-open-source/blob/master/README-CHI.md) (**中文**)
-- [German](https://github.com/mazipan/hello-open-source/blob/master/README-DE.md) (**Deutsche**)
-- [Indonesian](https://github.com/mazipan/hello-open-source/blob/master/README-ID.md) (**Bahasa Indonesia**)
-- [Japanese](https://github.com/mazipan/hello-open-source/blob/master/README-JP.md) (**日本人**)
-- [Korean](https://github.com/mazipan/hello-open-source/blob/master/README-KR.md) (**한국어**)
-- [Portuguese](https://github.com/mazipan/hello-open-source/blob/master/README-PT-BR.md) (**Português**)
-- [Russian](https://github.com/mazipan/hello-open-source/blob/master/README-RU.md) (**русский**)
-- [Spanish](https://github.com/mazipan/hello-open-source/blob/master/README-ES.md) (**Española**)
-- [Thai](https://github.com/mazipan/hello-open-source/blob/master/README-TH.md) (**ไทย**)
-- [Urdu](https://github.com/mazipan/hello-open-source/blob/master/README-UR.md) (**اردو**)
+- [Chinese](./translations/README-CHI.md) (**中文**)
+- [German](./translations/README-DE.md) (**Deutsche**)
+- [Indonesian](./translations/README-ID.md) (**Bahasa Indonesia**)
+- [Japanese](./translations/README-JP.md) (**日本人**)
+- [Korean](./translations/README-KR.md) (**한국어**)
+- [Portuguese](./translations/README-PT-BR.md) (**Português**)
+- [Russian](./translations/README-RU.md) (**русский**)
+- [Spanish](./translations/README-ES.md) (**Española**)
+- [Thai](./translations/README-TH.md) (**ไทย**)
+- [Urdu](./translations/README-UR.md) (**اردو**)
 
 ## ❓ How to contribute
 
 - Fork this repo, read [how to fork repo](https://help.github.com/articles/fork-a-repo/)
 - Checkout your forked repo to your computer, read [how to clone repo](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
-- Create a new `branch` with your github username as a branch name, example: `add-mazipan.js`. 
+- Create a new `branch` with your github username as a branch name, example: `add-mazipan.js`.
 - You can use command: `git checkout -b YourUsername/YourBranchName`, ex: `git checkout -b mazipan/add-mazipan`
-  
+
 > **DO NOT use `master` or `main` branch to create a Pull Request**.
 > Read article about [how to creating a branch](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/)
 
@@ -40,7 +39,7 @@ module.exports = {
   twitter: '@xxx',
   facebook: 'xxx',
   linkedin: 'in/xxx'
-};
+}
 ```
 
 - Create a pull request to `master` branch in this repository, read [how creating pull request](https://help.github.com/articles/creating-a-pull-request/)
@@ -50,14 +49,13 @@ module.exports = {
 - Have fun, and welcome to the open source world.
 - Keep in mind, quality is always number one when creating PRs, read the instructions carefully.
 
-
 ## 💰 Is this a data collection?
 
 No, this repo is intended for learning purpose.
 
 ## 🥶 Do I need to attach my real name?
 
-No, you can put a fake data. 
+No, you can put a fake data.
 We just want to learn about a contributtion flow in the open source ecosystem.
 
 ## 🙈 Do it with your own risk
