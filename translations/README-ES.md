@@ -4,11 +4,11 @@ Un repositorio para aprender acerca del flujo para contribuir al código abierto
 
 ## ❓ ¿Cómo contribuir?
 
-- Hazle _fork_ a este repositorio, lee [¿Cómo hacer fork a un repositorio?](https://help.github.com/articles/fork-a-repo/)
+- Hazle _fork_ a este repositorio, lee [¿Cómo hacer fork a un repositorio?](https://docs.github.com/es/get-started/quickstart/fork-a-repo)
 - Crea una rama con tu nombre de usuario de github, por ejemplo: `add-mazipan.js`. **Nunca uses la rama `master` para crear un PR**.
-  lee [cómo crear una rama](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/)
+  lee [cómo crear una rama](https://docs.github.com/es/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-and-deleting-branches-within-your-repository)
 - Agrega tu primer archivo con el nombre `github_nombredeusuario.js` en el directorio `people/` de esa rama.
-- Agrega código con información acerca de ti. Por ejemplo: 
+- Agrega código con información acerca de ti. Por ejemplo:
 
 ```js
 module.exports = {
@@ -20,7 +20,7 @@ module.exports = {
   linkedin: 'in/xxx'
 };
 ```
-- Crea un Pull-Request a la rama `master` de este repositorio, lee [¿Cómo crear un PR?](https://help.github.com/articles/creating-a-pull-request/).
+- Crea un Pull-Request a la rama `master` de este repositorio, lee [¿Cómo crear un PR?](https://docs.github.com/es/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
 - No te olvides de darle 🌟 a este repositorio, puedes verificar en [la página de stargazers](https://github.com/mazipan/hello-open-source/stargazers).
 - Sigue a [@mazipan](https://github.com/mazipan) en GitHub.
 - Voy a revisar tus PR's y **agregaré la etiqueta `invalid`** y **cerraré los PR's** que no sigan los pasos.
