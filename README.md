@@ -7,7 +7,7 @@ A repository to learn about open source code contributions flow (_for beginner o
 _Sorted alphabetically_
 
 - [Chinese](./translations/README-CHI.md) (**中文**)
-- [German](./translations/README-DE.md) (**Deutsche**)
+- [German](./translations/README-DE.md) (**Deutsch**)
 - [Indonesian](./translations/README-ID.md) (**Bahasa Indonesia**)
 - [Japanese](./translations/README-JP.md) (**日本人**)
 - [Korean](./translations/README-KR.md) (**한국어**)
