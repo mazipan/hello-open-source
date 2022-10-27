@@ -19,7 +19,7 @@ Un repository per imparare il flusso dei contributi al codice open source (_solo
 - Esegui il Fork di questo repository, leggi [come eseguire il fork del repo](https://help.github.com/articles/fork-a-repo/) 
 - Crea un branch con il tuo nome utente github, ad esempio: `add-mazipan.js`. **Non usare mai il Branch (ramo) `master` per creare PR**. 
   leggi [come creare un branch](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/) 
-- Aggiungi il tuo primo file con il nome `github_username.js` nella cartella` peoples / ` in quel branch. 
+- Aggiungi il tuo primo file con il nome `github_username.js` nella cartella` people/` in quel branch. 
 - Aggiungi il codice con i tuoi dati, ad esempio: 
 
 ```js 

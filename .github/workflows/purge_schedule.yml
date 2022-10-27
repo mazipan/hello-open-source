@@ -1,6 +1,7 @@
 name: Cron job purge data
 
 on:
+  workflow_dispatch:
   schedule:
   - cron: "0 14 1 * *"
 
@@ -8,7 +9,7 @@ jobs:
   purge_file:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2      
+      - uses: actions/checkout@v3      
         with:
          persist-credentials: false
          fetch-depth: 0
@@ -40,11 +41,12 @@ jobs:
         run: |
           git config --local user.email "mazipanneh@gmail.com"
           git config --local user.name "mazipan"
+          git config --global --add safe.directory /github/workspace
           git add -A
-          git commit -m "Purge data"
+          git commit -m "chore: auto purge data"
 
       - name: GitHub Push
-        uses: ad-m/github-push-action@v0.5.0
+        uses: ad-m/github-push-action@master
         with:
           force: true
           directory: "."

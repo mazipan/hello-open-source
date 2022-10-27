@@ -19,7 +19,7 @@ Repository เพื่อการศึกษาเกี่ยวกับก
 - กดปุ่ม Fork เรโปนี้, อ่าน [วิธีการ fork](https://help.github.com/articles/fork-a-repo/)
 - สร้าง branch ในเรโปที่คุณ fork มาซึ่งจะเป็น username ของคุณ, ตัวอย่าง: `add-mazipan.js` **สำคัญไม่ควรทำงานบน `master` เพื่อที่จะสร้าง PR**
   อ่าน [วิธีการสร้าง branch](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/)
-- สร้างไฟล์แรกของคุณโดยชื่อไฟล์ว่า `github_username.js` บนโฟล์เดอร์ `peoples/` ใน branch นั้น ๆ
+- สร้างไฟล์แรกของคุณโดยชื่อไฟล์ว่า `github_username.js` บนโฟล์เดอร์ `people/` ใน branch นั้น ๆ
 - เพิ่มโค๊ดพร้อมกับระบุตัวตนของคุณ, ตัวอย่าง:
 
 ```js

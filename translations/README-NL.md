@@ -22,7 +22,7 @@ Een repository om te leren over de flow van source code bijdragen (_enkel voor b
 - Fork dit repository, lees [hoe maak ik een fork van een repo](https://help.github.com/articles/fork-a-repo/)
 - Maak een branch met je github gebruikersnaam, bv: `add-mazipan.js`. **Gebruik nooit `master` branch om een PR aan te maken**.
   Lees [Hoe maak ik een branch](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/)
-- Voeg je eerste bestand toe met de bestandsnaam `github_username.js` in de `peoples/` folder van deze branch.
+- Voeg je eerste bestand toe met de bestandsnaam `github_username.js` in de `people/` folder van deze branch.
 - Voeg code toe met je identiteit, bv:
 
 ```js
