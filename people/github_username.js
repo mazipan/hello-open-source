@@ -1,8 +1,8 @@
 module.exports = {
-    name: 'sidheeq',
-    github: 'sidheeq',
-    email: 'sidheeqpallam111@gmial.com',
+    name: 'Tejas',
+    github: 'tejxsmore',
+    email: 'tejasmore@gmail.com',
     twitter: '@xxx',
     facebook: 'xxx',
-    linkedin: 'in/xxx'
+    linkedin: 'tejxsmore'
   }
