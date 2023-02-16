@@ -21,7 +21,7 @@ _Sorted alphabetically_
 
 - Fork this repo, read [how to fork repo](https://help.github.com/articles/fork-a-repo/)
 - Checkout your forked repo to your computer, read [how to clone repo](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
-- Create a new `branch` with your github username as a branch name, example: `add-mazipan.js`.
+- Create a new `branch` with your github username as a branch name, example: `add-mazipan`.
 - You can use command: `git checkout -b YourUsername/YourBranchName`, ex: `git checkout -b mazipan/add-mazipan`
 
 > **DO NOT use `master` or `main` branch to create a Pull Request**.
