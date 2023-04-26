@@ -14,10 +14,10 @@ jobs:
          persist-credentials: false
          fetch-depth: 0
 
-      - name: Setup node 12
+      - name: Setup node 18
         uses: actions/setup-node@v1
         with:
-          node-version: 12.x
+          node-version: 18.x
 
       - name: Get yarn cache
         id: yarn-cache
@@ -46,7 +46,7 @@ jobs:
           git commit -m "chore: auto purge data"
 
       - name: GitHub Push
-        uses: ad-m/github-push-action@master
+        uses: ad-m/github-push-action@0.6.0
         with:
           force: true
           directory: "."
