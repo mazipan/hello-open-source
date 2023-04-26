@@ -46,7 +46,7 @@ jobs:
           git commit -m "chore: auto purge data"
 
       - name: GitHub Push
-        uses: ad-m/github-push-action@0.6.0
+        uses: ad-m/github-push-action@v0.6.0
         with:
           force: true
           directory: "."
