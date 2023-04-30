@@ -43,7 +43,7 @@ jobs:
           git config --local user.name "mazipan"
           git config --global --add safe.directory /github/workspace
           git add -A
-          git commit -m "chore: auto purge data"
+          git commit -m "🔥 CHORE: purge all data"
 
       - name: GitHub Push
         uses: ad-m/github-push-action@v0.6.0
