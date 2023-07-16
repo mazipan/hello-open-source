@@ -41,6 +41,7 @@ module.exports = {
   facebook: 'xxx',
   linkedin: 'in/xxx'
 }
+```
 
 
 - ఈ రెపోజిటరీలో `master` బ్రాంచ్‌కు పుల్ రిక్వెస్ట్ సృష్టించండి, [పుల్ రిక్వెస్ట్ సృష్టించడానికి ఎలా](https://help.github.com/articles/creating-a-pull-request/) చదవండి.
