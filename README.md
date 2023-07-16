@@ -16,6 +16,7 @@ _Sorted alphabetically_
 - [Spanish](./translations/README-ES.md) (**Española**)
 - [Thai](./translations/README-TH.md) (**ไทย**)
 - [Urdu](./translations/README-UR.md) (**اردو**)
+- [TELUGU](./translations/README-TE.md) {**తెలుగు**}
 
 ## ❓ How to contribute
 
