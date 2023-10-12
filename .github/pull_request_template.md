@@ -1,11 +1,26 @@
-**Important Note: All pull request on this repository will not count in the #Hacktoberfest**.
+---
+name: 'Adding YourName'
+about: Adding new file under people directory
+title: 'CHORE: Adding [YourName]'
+labels: automerge
+assignees: mazipan
+---
 
-This repo is intended for learning purpose only, not as your way to achieve your Hacktoberfest target.
-After creating Pull Request in this repository, you are ready to go to create a better Pull Request to other repository in the future.
+Hi, here we go. I am adding my name to this repo.
 
-Before creating this PR, I already finish these two things:
+Plese help to review my changes!
+
+<!--
+**Important Note: This repository will not count in the #Hacktoberfest**.
+
+This repo is intended for learning purpose only, not as your way to achieve your #hacktoberfest target.
+
+After creating Pull Request in this repository, we expect you are ready to go to create a better Pull Request to other repository in the future. 🎉🎉🎉
+
+Before creating this PR, please do these two things:
 
 - [ ] Follow @mazipan
 - [ ] Push 🌟 button in this repository
+-->
 
 Thank you!
