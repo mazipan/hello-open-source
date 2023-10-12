@@ -1,10 +1,4 @@
----
-name: 'Adding YourName'
-about: Adding new file under people directory
-title: 'CHORE: Adding [YourName]'
-labels: automerge
-assignees: mazipan
----
+# Adding [YourName] under people directory
 
 Hi, here we go. I am adding my name to this repo.
 
