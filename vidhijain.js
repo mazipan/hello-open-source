@@ -36,7 +36,8 @@
                    break;  
             }  
             show.textContent = display_msg;  
-        });  
+        });
+yarn run lint --fix
     </script>  
 </body>  
 </html>  
