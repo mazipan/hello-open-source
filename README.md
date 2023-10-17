@@ -6,17 +6,21 @@ A repository to learn about open source code contributions flow (_for beginner o
 
 _Sorted alphabetically_
 
+- [Bengali](./translations/README-BN.md) (**বাংলা**)
 - [Chinese](./translations/README-CHI.md) (**中文**)
+- [French](./translations/README-FR.md) (**Français**)
 - [German](./translations/README-DE.md) (**Deutsch**)
+- [Hindi](./translations/README-HI.md) (**हिंदी**)
 - [Indonesian](./translations/README-ID.md) (**Bahasa Indonesia**)
+- [Italian](./translations/README-it.md) (**Italiano**)
 - [Japanese](./translations/README-JP.md) (**日本人**)
 - [Korean](./translations/README-KR.md) (**한국어**)
 - [Portuguese](./translations/README-PT-BR.md) (**Português**)
 - [Russian](./translations/README-RU.md) (**русский**)
 - [Spanish](./translations/README-ES.md) (**Española**)
+- [Telugu](./translations/README-TE.md) {**తెలుగు**}
 - [Thai](./translations/README-TH.md) (**ไทย**)
 - [Urdu](./translations/README-UR.md) (**اردو**)
-- [TELUGU](./translations/README-TE.md) {**తెలుగు**}
 
 ## ❓ How to contribute
 
