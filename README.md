@@ -97,6 +97,8 @@ After finishing all steps here, we expect you will have a basic knowledge in how
 
 **👉 Do NOT stop here, keep contribute to open source code**
 
+Happy Contributing in Open Source !
+
 ---
 
 Copyright © 2018-2021 **Irfan Maulana**
