@@ -1,0 +1,8 @@
+module.exports = {
+  name: 'Shubham Kashyap',
+  github: 'https://github.com/shubhamkyup',
+  email: 'shubhamkashyap1601@gmail.com',
+  twitter: '-',
+  facebook: '-',
+  linkedin: '-'
+}
