@@ -61,7 +61,7 @@ No, this repo is intended for learning purpose.
 ## 🥶 Do I need to attach my real name?
 
 No, you can put a fake data.
-We just want to learn about a contributtion flow in the open source ecosystem.
+We just want to learn about a contribution flow in the open source ecosystem.
 
 ## 🙈 Do it with your own risk
 
