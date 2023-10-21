@@ -1,5 +1,5 @@
 module.exports = {
-  name: 'YOUR NAME',
+  name: 'YOUR_NAME',
   github: 'XXX',
   email: 'xxx@xxx.com',
   twitter: '@xxx',
