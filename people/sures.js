@@ -6,4 +6,3 @@ module.exports = {
     facebook: 'https://facebook.com/abhiramroyals',
     linkedin: 'https://www.linkedin.com/in/abhiram-royals/'
   }
-  
