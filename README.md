@@ -11,6 +11,7 @@ _Sorted alphabetically_
 - [French](./translations/README-FR.md) (**Français**)
 - [German](./translations/README-DE.md) (**Deutsch**)
 - [Hindi](./translations/README-HI.md) (**हिंदी**)
+- [Hinglish](./translations/README-HINGLISH.md) (**Hinglish**)
 - [Indonesian](./translations/README-ID.md) (**Bahasa Indonesia**)
 - [Italian](./translations/README-it.md) (**Italiano**)
 - [Japanese](./translations/README-JP.md) (**日本人**)
