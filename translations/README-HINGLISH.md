@@ -6,22 +6,22 @@ Yeh ek repository hai jo open-source code contributions ke flow ke baare mein ja
 
 _alphabetically order mea_
 
-- [Bengali](./translations/README-BN.md) (**বাংলা**)
-- [Chinese](./translations/README-CHI.md) (**中文**)
-- [French](./translations/README-FR.md) (**Français**)
-- [German](./translations/README-DE.md) (**Deutsch**)
-- [Hindi](./translations/README-HI.md) (**हिंदी**)
-- [Hinglish](./translations/README-HINGLISH.md) (**Hinglish**)
-- [Indonesian](./translations/README-ID.md) (**Bahasa Indonesia**)
-- [Italian](./translations/README-it.md) (**Italiano**)
-- [Japanese](./translations/README-JP.md) (**日本人**)
-- [Korean](./translations/README-KR.md) (**한국어**)
-- [Portuguese](./translations/README-PT-BR.md) (**Português**)
-- [Russian](./translations/README-RU.md) (**русский**)
-- [Spanish](./translations/README-ES.md) (**Española**)
-- [Telugu](./translations/README-TE.md) (**తెలుగు**)
-- [Thai](./translations/README-TH.md) (**ไทย**)
-- [Urdu](./translations/README-UR.md) (**اردو**)
+- [Bengali](./README-BN.md) (**বাংলা**)
+- [Chinese](./README-CHI.md) (**中文**)
+- [French](./README-FR.md) (**Français**)
+- [German](./README-DE.md) (**Deutsch**)
+- [Hindi](./README-HI.md) (**हिंदी**)
+- [Hinglish](./README-HINGLISH.md) (**Hinglish**)
+- [Indonesian](./README-ID.md) (**Bahasa Indonesia**)
+- [Italian](./README-it.md) (**Italiano**)
+- [Japanese](./README-JP.md) (**日本人**)
+- [Korean](./README-KR.md) (**한국어**)
+- [Portuguese](./README-PT-BR.md) (**Português**)
+- [Russian](./README-RU.md) (**русский**)
+- [Spanish](./README-ES.md) (**Española**)
+- [Telugu](./README-TE.md) (**తెలుగు**)
+- [Thai](./README-TH.md) (**ไทย**)
+- [Urdu](./README-UR.md) (**اردو**)
 
 ## ❓ Kaise contribute karein
 

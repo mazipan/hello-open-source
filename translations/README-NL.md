@@ -7,15 +7,15 @@ Een repository om te leren over de flow van source code bijdragen (_enkel voor b
 
 *Sort by alphabet*
 
-- [Chinees](https://github.com/mazipan/hello-open-source/blob/master/README-CHI.md) (**中文**)
-- [Duits](https://github.com/mazipan/hello-open-source/blob/master/README-DE.md) (**Deutsche**)
-- [Indonesisch](https://github.com/mazipan/hello-open-source/blob/master/README-ID.md) (**Bahasa Indonesia**)
-- [Japans](https://github.com/mazipan/hello-open-source/blob/master/README-JP.md) (**日本人**)
-- [Koreaans](https://github.com/mazipan/hello-open-source/blob/master/README-KR.md) (**한국어**)
-- [Portuguees](https://github.com/mazipan/hello-open-source/blob/master/README-PT-BR.md) (**Português**)
-- [Russisch](https://github.com/mazipan/hello-open-source/blob/master/README-RU.md) (**русский**)
-- [Spaans](https://github.com/mazipan/hello-open-source/blob/master/README-ES.md) (**Española**)
-- [Thais](https://github.com/mazipan/hello-open-source/blob/master/README-TH.md) (**ไทย**)
+- [Chinees](./README-CHI.md) (**中文**)
+- [Duits](./README-DE.md) (**Deutsche**)
+- [Indonesisch](./README-ID.md) (**Bahasa Indonesia**)
+- [Japans](./README-JP.md) (**日本人**)
+- [Koreaans](./README-KR.md) (**한국어**)
+- [Portuguees](./README-PT-BR.md) (**Português**)
+- [Russisch](./README-RU.md) (**русский**)
+- [Spaans](./README-ES.md) (**Española**)
+- [Thais](./README-TH.md) (**ไทย**)
 
 ## ❓ Hoe kan je bijdragen
 
