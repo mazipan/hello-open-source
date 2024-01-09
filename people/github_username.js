@@ -1,8 +1,8 @@
 module.exports = {
-  name: 'YOUR_NAME',
-  github: 'XXX',
-  email: 'xxx@xxx.com',
+  name: 'Mohamed Boukthir',
+  github: 'MohamedBoukthir',
+  email: 'Medboukthir7@gmail.com',
   twitter: '@xxx',
-  facebook: 'xxx',
-  linkedin: 'in/xxx'
+  facebook: 'Hama Boukthir',
+  linkedin: 'in/mohamedboukthir/'
 }
