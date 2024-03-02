@@ -1,8 +1,8 @@
 module.exports = {
-  name: 'Aryan',
-  github: 'Aryan-AAP',
-  email: 'pardeshiaryanon@gmail.com',
-  twitter: '@aryan83202',
+  name: 'Praveen',
+  github: 'Praveen-AAP',
+  email: 'praveenmaster@gmail.com',
+  twitter: '@praveen34334',
   facebook: '-',
-  linkedin: '/in/aryan-pardeshi-a70502251'
+  linkedin: '/in/praveen343434343'
 }
