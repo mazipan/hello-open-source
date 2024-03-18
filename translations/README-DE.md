@@ -4,13 +4,13 @@ Ein Repository, in dem du Informationen zum Open Source Code Beitrags Workflow e
 
 ## 🌎 Übersetzungen
 
-- [Portugiesisch](https://github.com/mazipan/hello-open-source/blob/master/README-PT-BR.md)
-- [Chinesisch](https://github.com/mazipan/hello-open-source/blob/master/README-CHI.md)
-- [Japanisch](https://github.com/mazipan/hello-open-source/blob/master/README-JP.md)
-- [Koreanisch](https://github.com/mazipan/hello-open-source/blob/master/README-KR.md)
-- [Spanisch](https://github.com/mazipan/hello-open-source/blob/master/README-ES.md)
-- [Indonesisch](https://github.com/mazipan/hello-open-source/blob/master/README-ID.md)
-- [Deutsch](https://github.com/mazipan/hello-open-source/blob/master/README-DE.md)
+- [Portugiesisch](./README-PT-BR.md)
+- [Chinesisch](./README-CHI.md)
+- [Japanisch](./README-JP.md)
+- [Koreanisch](./README-KR.md)
+- [Spanisch](./README-ES.md)
+- [Indonesisch](./README-ID.md)
+- [Deutsch](./README-DE.md)
 
 ## ❓ Wie Du beitragen kannst
 

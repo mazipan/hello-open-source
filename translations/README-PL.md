@@ -4,14 +4,14 @@ Repozytorium pokazujące jak działa flow Open Source (_tylko dla nowicjuszy_)
 
 ## 🌎 Tłumaczenia
 
-- [Portugalski](https://github.com/mazipan/hello-open-source/blob/master/README-PT-BR.md)
-- [Chiński](https://github.com/mazipan/hello-open-source/blob/master/README-CHI.md)
-- [Japoński](https://github.com/mazipan/hello-open-source/blob/master/README-JP.md)
-- [Koreański](https://github.com/mazipan/hello-open-source/blob/master/README-KR.md)
-- [Hiszpański](https://github.com/mazipan/hello-open-source/blob/master/README-ES.md)
-- [Indonezyjski](https://github.com/mazipan/hello-open-source/blob/master/README-ID.md)
-- [Niemiecki](https://github.com/mazipan/hello-open-source/blob/master/README-DE.md)
-- [Polski](https://github.com/mazipan/hello-open-source/blob/master/README-PL.md)
+- [Portugalski](./README-PT-BR.md)
+- [Chiński](./README-CHI.md)
+- [Japoński](./README-JP.md)
+- [Koreański](./README-KR.md)
+- [Hiszpański](./README-ES.md)
+- [Indonezyjski](./README-ID.md)
+- [Niemiecki](./README-DE.md)
+- [Polski](./README-PL.md)
 
 ## ❓ Jak wnieść swoją cegiełkę
 

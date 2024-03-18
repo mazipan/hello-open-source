@@ -4,15 +4,15 @@
 
 ## 🌎 Переводы
 
-- [Португальский](https://github.com/mazipan/hello-open-source/blob/master/README-PT-BR.md)
-- [Китайский](https://github.com/mazipan/hello-open-source/blob/master/README-CHI.md)
-- [Японский](https://github.com/mazipan/hello-open-source/blob/master/README-JP.md)
-- [Корейский](https://github.com/mazipan/hello-open-source/blob/master/README-KR.md)
-- [Испанский](https://github.com/mazipan/hello-open-source/blob/master/README-ES.md)
-- [Индонезийский](https://github.com/mazipan/hello-open-source/blob/master/README-ID.md)
-- [Немецкий](https://github.com/mazipan/hello-open-source/blob/master/README-DE.md)
-- [Польский](https://github.com/mazipan/hello-open-source/blob/master/README-PL.md)
-- [Русский](https://github.com/mazipan/hello-open-source/blob/master/README-RU.md)
+- [Португальский](./README-PT-BR.md)
+- [Китайский](./README-CHI.md)
+- [Японский](./README-JP.md)
+- [Корейский](./README-KR.md)
+- [Испанский](./README-ES.md)
+- [Индонезийский](./README-ID.md)
+- [Немецкий](./README-DE.md)
+- [Польский](./README-PL.md)
+- [Русский](./README-RU.md)
 
 ## ❓ Как внести свой вклад
 

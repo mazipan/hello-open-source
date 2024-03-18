@@ -6,17 +6,17 @@
 
 वर्णक्रमानुसार क्रमवारी लावली
 
-- =[चीनी](https://github.com/mazipan/hello-open-source/blob/master/README-CHI.md) (**中文**)
-- [जर्मन](https://github.com/mazipan/hello-open-source/blob/master/README-DE.md) (**Deutsch**)
-- [इंडोनेशियाई](https://github.com/mazipan/hello-open-source/blob/master/README-ID.md) (**Bahasa Indonesia**)
-- [जापानी](https://github.com/mazipan/hello-open-source/blob/master/README-JP.md) (**日本人**)
-- [कोरियाई](https://github.com/mazipan/hello-open-source/blob/master/README-KR.md) (**한국어**)
-- [पुर्तगाली](https://github.com/mazipan/hello-open-source/blob/master/README-PT-BR.md) (**Português**)
-- [रूसी](https://github.com/mazipan/hello-open-source/blob/master/README-RU.md) (**русский**)
-- [स्पेनिश](https://github.com/mazipan/hello-open-source/blob/master/README-ES.md) (**Española**)
-- [थाई](https://github.com/mazipan/hello-open-source/blob/master/README-TH.md) (**ไทย**)
-- [उर्दू](https://github.com/mazipan/hello-open-source/blob/master/README-UR.md) (**اردو**)
-- [तेलुगु](https://github.com/mazipan/hello-open-source/blob/master/README-TE.md) (**తెలుగు**)
+- =[चीनी](./README-CHI.md) (**中文**)
+- [जर्मन](./README-DE.md) (**Deutsch**)
+- [इंडोनेशियाई](./README-ID.md) (**Bahasa Indonesia**)
+- [जापानी](./README-JP.md) (**日本人**)
+- [कोरियाई](./README-KR.md) (**한국어**)
+- [पुर्तगाली](./README-PT-BR.md) (**Português**)
+- [रूसी](./README-RU.md) (**русский**)
+- [स्पेनिश](./README-ES.md) (**Española**)
+- [थाई](./README-TH.md) (**ไทย**)
+- [उर्दू](./README-UR.md) (**اردو**)
+- [तेलुगु](./README-TE.md) (**తెలుగు**)
 
 ## ❓ कसे योगदान द्यावे
 

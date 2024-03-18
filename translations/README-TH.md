@@ -5,14 +5,14 @@ Repository เพื่อการศึกษาเกี่ยวกับก
 
 ## 🌎 ภาษาอื่น ๆ
 
-- [Portuguese](https://github.com/mazipan/hello-open-source/blob/master/README-PT-BR.md)
-- [Chinese](https://github.com/mazipan/hello-open-source/blob/master/README-CHI.md)
-- [Japanese](https://github.com/mazipan/hello-open-source/blob/master/README-JP.md)
-- [Korean](https://github.com/mazipan/hello-open-source/blob/master/README-KR.md)
-- [Spanish](https://github.com/mazipan/hello-open-source/blob/master/README-ES.md)
-- [Indonesian](https://github.com/mazipan/hello-open-source/blob/master/README-ID.md)
-- [German](https://github.com/mazipan/hello-open-source/blob/master/README-DE.md)
-- [Russian](https://github.com/mazipan/hello-open-source/blob/master/README-RU.md)
+- [Portuguese](./README-PT-BR.md)
+- [Chinese](./README-CHI.md)
+- [Japanese](./README-JP.md)
+- [Korean](./README-KR.md)
+- [Spanish](./README-ES.md)
+- [Indonesian](./README-ID.md)
+- [German](./README-DE.md)
+- [Russian](./README-RU.md)
 
 ## ❓ วิธีการมีส่วนร่วม
 

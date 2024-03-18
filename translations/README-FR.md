@@ -4,14 +4,14 @@ Un référentiel où vous trouverez des informations sur le flux de travail de c
 
 ## 🌎 Traductions
 
-- [Portugais](https://github.com/mazipan/hello-open-source/blob/master/README-PT-BR.md)
-- [Chinois](https://github.com/mazipan/hello-open-source/blob/master/README-CHI.md)
-- [Japonais](https://github.com/mazipan/hello-open-source/blob/master/README-JP.md)
-- [Coréen](https://github.com/mazipan/hello-open-source/blob/master/README-KR.md)
-- [Espagnol](https://github.com/mazipan/hello-open-source/blob/master/README-ES.md)
-- [Indonésien](https://github.com/mazipan/hello-open-source/blob/master/README-ID.md)
-- [Allemand](https://github.com/mazipan/hello-open-source/blob/master/README-DE.md)
-- [Français](https://github.com/mazipan/hello-open-source/blob/master/README-FR.md)
+- [Portugais](./README-PT-BR.md)
+- [Chinois](./README-CHI.md)
+- [Japonais](./README-JP.md)
+- [Coréen](./README-KR.md)
+- [Espagnol](./README-ES.md)
+- [Indonésien](./README-ID.md)
+- [Allemand](./README-DE.md)
+- [Français](./README-FR.md)
 
 ## ❓ Comment contribuer
 

@@ -4,15 +4,15 @@ Un repository per imparare il flusso dei contributi al codice open source (_solo
 
 ## 🌎 Traduzioni 
 
-- [portoghese](https://github.com/mazipan/hello-open-source/blob/master/README-PT-BR.md) 
-- [cinese](https://github.com/mazipan/hello-open-source/blob/master/README-CHI.md) 
-- [giapponese](https://github.com/mazipan/hello-open-source/blob/master/README-JP.md) 
-- [Coreano](https://github.com/mazipan/hello-open-source/blob/master/README-KR.md) 
-- [Spagnolo](https://github.com/mazipan/hello-open-source/blob/master/README-ES.md) 
-- [Indonesian](https://github.com/mazipan/hello-open-source/blob/master/README-ID.md) 
-- [tedesco](https://github.com/mazipan/hello-open-source/blob/master/README-DE.md)
-- [russo](https://github.com/mazipan/hello-open-source/blob/master/README-RU.md) 
-- [Thai](https://github.com/mazipan/hello-open-source/blob/master/README-TH.md) 
+- [portoghese](./README-PT-BR.md) 
+- [cinese](./README-CHI.md) 
+- [giapponese](./README-JP.md) 
+- [Coreano](./README-KR.md) 
+- [Spagnolo](./README-ES.md) 
+- [Indonesian](./README-ID.md) 
+- [tedesco](./README-DE.md)
+- [russo](./README-RU.md) 
+- [Thai](./README-TH.md) 
 
 ## ❓ Come contribuire?
 

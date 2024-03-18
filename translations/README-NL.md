@@ -1,29 +1,36 @@
 # Hallo Open Source 🖐️
- 
-Een repository om te leren over de flow van source code bijdragen (_enkel voor beginners_)
+
+Een repository om te leren over het verloop van bijdragen aan open source (_enkel voor beginners_).
 
 
 ## 🌎 Vertalingen
 
-*Sort by alphabet*
+*Alfabetisch gesorteerd*
 
-- [Chinees](https://github.com/mazipan/hello-open-source/blob/master/README-CHI.md) (**中文**)
-- [Duits](https://github.com/mazipan/hello-open-source/blob/master/README-DE.md) (**Deutsche**)
-- [Indonesisch](https://github.com/mazipan/hello-open-source/blob/master/README-ID.md) (**Bahasa Indonesia**)
-- [Japans](https://github.com/mazipan/hello-open-source/blob/master/README-JP.md) (**日本人**)
-- [Koreaans](https://github.com/mazipan/hello-open-source/blob/master/README-KR.md) (**한국어**)
-- [Portuguees](https://github.com/mazipan/hello-open-source/blob/master/README-PT-BR.md) (**Português**)
-- [Russisch](https://github.com/mazipan/hello-open-source/blob/master/README-RU.md) (**русский**)
-- [Spaans](https://github.com/mazipan/hello-open-source/blob/master/README-ES.md) (**Española**)
-- [Thais](https://github.com/mazipan/hello-open-source/blob/master/README-TH.md) (**ไทย**)
+- [Bengaals](./README-BN.md) (**বাংলা**)
+- [Chinees](./README-CHI.md) (**中文**)
+- [Frans](./README-FR.md) (**Français**)
+- [Duits](./README-DE.md) (**Deutsch**)
+- [Hindi](./README-HI.md) (**हिंदी**)
+- [Hinglish ](./README-HINGLISH.md) (**Hinglish**)
+- [Hongaars](./translation/README-HU.md) (**Hungarian**)
+- [Indonesisch](./README-ID.md) (**Bahasa Indonesia**)
+- [Italiaans](./README-it.md) (**Italiano**)
+- [Japans](./README-JP.md) (**日本人**)
+- [Koreaans](./README-KR.md) (**한국어**)
+- [Portugees](./README-PT-BR.md) (**Português**)
+- [Russisch](./README-RU.md) (**русский**)
+- [Spaans](./README-ES.md) (**Española**)
+- [Telugu](./README-TE.md) {**తెలుగు**}
+- [Thais](./README-TH.md) (**ไทย**)
+- [Urdu](./README-UR.md) (**اردو**)
 
-## ❓ Hoe kan je bijdragen
+## ❓ Hoe draag ik bij?
 
-- Fork dit repository, lees [hoe maak ik een fork van een repo](https://help.github.com/articles/fork-a-repo/)
-- Maak een branch met je github gebruikersnaam, bv: `add-mazipan.js`. **Gebruik nooit `master` branch om een PR aan te maken**.
-  Lees [Hoe maak ik een branch](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/)
-- Voeg je eerste bestand toe met de bestandsnaam `github_username.js` in de `people/` folder van deze branch.
-- Voeg code toe met je identiteit, bv:
+- Fork deze repository, lees [hoe maak ik een fork van een repo](https://help.github.com/articles/fork-a-repo/)
+- Maak een branch met je GitHub gebruikersnaam, bv: `add-mazipan.js`. **Gebruik nooit de `master` branch om een Pull-Request aan te maken**. Lees [Hoe maak ik een branch](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/)
+- Voeg een bestand toe met de bestandsnaam `github_username.js` in de `people/` folder van je eigen branch.
+- Voeg code toe met je gegevens, bijvoorbeeld:
 
 ```js
 module.exports = {
@@ -36,12 +43,12 @@ module.exports = {
 };
 ```
 
-- Maak een Pull-Request aan voor de  `master` branch in dit repository, lees [Hoe maak ik een PR PR](https://help.github.com/articles/creating-a-pull-request/)
-- Vergeet  geen 🌟 te geven aan dit repository, je kan dit checken in de [stargazers page](https://github.com/mazipan/hello-open-source/stargazers)
-- Je zou github [@mazipan] moeten volgen (https://github.com/mazipan)
-- Ik zal je PRs checken and zal ** `ongeldig` label toevoegen ** en ** de PR sluiten ** die de stappen niet volgen
-- Veel plezier en welkom in de open source wereld.
-- Onthou goed, kwaliteit is altijd de belangrijkste prioriteit bij het aanmaken van PRs.
+- Maak een Pull-Request aan voor de  `master` branch in deze repository, lees [hoe maak ik een PR](https://help.github.com/articles/creating-a-pull-request/)
+- Vergeet deze repository geen 🌟 te geven, je kan zien wie dit hebben gedaan op de [stargazers page](https://github.com/mazipan/hello-open-source/stargazers)
+- Je kan [@mazipan](https://github.com/mazipan) volgen
+- Ik check je Pull-Requests en zal het **`ongeldig` label toevoegen** en **de PR sluiten** bij verkeerde Pull-Requests.
+- Dit is je eerste open-source contributie! Veel plezier en welkom in de open-source wereld!
+- Onthoud goed, kwaliteit is altijd het belangrijkst bij het maken van een Pull-Request
 
 ## 💰 Is dit het verzamelen van data?
 
@@ -49,7 +56,7 @@ Nee, dit is enkel bedoeld als leermiddel.
 
 ## 🥶 Moet ik mijn echte naam toevoegen?
 
-Neen, eender welke data. We willen juist de flow leren om bijdrages te leveren aan open source.
+Zeker niet! We willen vooral iedereen leren hoe open-source werkt.
 
 
 ## 🙈 Doe dit op eigen risico
@@ -58,11 +65,13 @@ We zullen geen data verzamelen, maar er bestaat een kans dat andere mensen misbr
 Doe dit op eigen risico, **we beschermen jouw data niet**.
 
 
-## ⤵️ How do I retrieve someone's data?
+## ⤵️ Hoe bekijk ik de data?
+
+(NodeJS vereist)
 
 ```shell
 git clone https://github.com/mazipan/hello-open-source # clone de repo
-cd hello-open-source # cd in de repo
+cd hello-open-source # navigeer naar de repo
 node index.js caxvis # zal de persoon genaamd caxvis teruggeven
 ```
 
@@ -84,10 +93,10 @@ yarn purge joe-bob kitty-luvr73
 
 ## 🚶 Volgende stap
 
-Dit repo is enkel om je te introduceren in de flow voor het bijdragen tot open source code.
-Na alle stappen hier te volgen, veronderstellen we dat je basiskennis zal hebben over fork van een repository, hoe git branch werkt, hoe een goede pull request te maken en andere basiszaken om klaar te zijn voor je volgende bijdrage aan open source code 🥳.
+Deze repo is bedoeld om je te introduceren in de stappen voor het bijdragen aan open source code.
+Na alle stappen hier te volgen, heb je basiskennis over het forken van een repository, hoe een Git branch werkt, hoe een goede pull request te maken en andere basiszaken om klaar te zijn voor je volgende bijdrage aan open source code 🥳.
 
-**👉 Stop niet hier, blijf bijdragen aan open source code**
+**👉 Stop hier niet, blijf bijdragen aan open source code! Zo maak je de (digitale) wereld elke dag een beetje beter.**
 
 ---
 
