@@ -12,6 +12,16 @@ Un référentiel où vous trouverez des informations sur le flux de travail de c
 - [Indonésien](https://github.com/mazipan/hello-open-source/blob/master/README-ID.md)
 - [Allemand](https://github.com/mazipan/hello-open-source/blob/master/README-DE.md)
 - [Français](https://github.com/mazipan/hello-open-source/blob/master/README-FR.md)
+- [Hindi](https://github.com/mazipan/hello-open-source/blob/master/README-HI.md)
+- [Hinglish](https://github.com/mazipan/hello-open-source/blob/master/README-HINGLISH.md)
+- [Hongrois](https://github.com/mazipan/hello-open-source/blob/master/README-HU.md)
+- [Italien](https://github.com/mazipan/hello-open-source/blob/master/README-it.md)
+- [Néerlandais](https://github.com/mazipan/hello-open-source/blob/master/README-NL.md)
+- [Polonais](https://github.com/mazipan/hello-open-source/blob/master/README-PL.md)
+- [Russe](https://github.com/mazipan/hello-open-source/blob/master/README-RU.md)
+- [Télougou](https://github.com/mazipan/hello-open-source/blob/master/README-TE.md)
+- [Thaïlandais](https://github.com/mazipan/hello-open-source/blob/master/README-TH.md)
+- [Ourdou](https://github.com/mazipan/hello-open-source/blob/master/README-UR.md)
 
 ## ❓ Comment contribuer
 
