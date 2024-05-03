@@ -17,7 +17,7 @@ Ein Repository, in dem Du Informationen zum Open-Source-Beitrags-Workflow erhäl
 - [Portugiesisch](./translations/README-PT-BR.md) (**Português**)
 - [Russisch](./translations/README-RU.md) (**русский**)
 - [Spanisch](./translations/README-ES.md) (**Española**)
-- [Telugu](./translations/README-TE.md) {**తెలుగు**}
+- [Telugu](./translations/README-TE.md) (**తెలుగు**)
 - [Thailändisch](./translations/README-TH.md) (**ไทย**)
 - [Urdu](./translations/README-UR.md) (**اردو**)
 
