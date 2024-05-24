@@ -21,7 +21,7 @@ Een repository om te leren over het verloop van bijdragen aan open source (_enke
 - [Portugees](./README-PT-BR.md) (**Português**)
 - [Russisch](./README-RU.md) (**русский**)
 - [Spaans](./README-ES.md) (**Española**)
-- [Telugu](./README-TE.md) {**తెలుగు**}
+- [Telugu](./README-TE.md) (**తెలుగు**)
 - [Thais](./README-TH.md) (**ไทย**)
 - [Urdu](./README-UR.md) (**اردو**)
 
