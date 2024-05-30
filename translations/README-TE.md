@@ -6,17 +6,17 @@
 
 _అక్షరముల క్రమంలో_
 
-- [చైనీస్](./translations/README-CHI.md) (**中文**)
-- [జర్మన్](./translations/README-DE.md) (**Deutsch**)
-- [ఇండోనేషియన్](./translations/README-ID.md) (**Bahasa Indonesia**)
-- [జపనీస్](./translations/README-JP.md) (**日本人**)
-- [కొరియన్](./translations/README-KR.md) (**한국어**)
-- [పోర్చుగీస్](./translations/README-PT-BR.md) (**Português**)
-- [రష్యన్](./translations/README-RU.md) (**русский**)
-- [స్పానిష్](./translations/README-ES.md) (**Española**)
-- [తాయ్](./translations/README-TH.md) (**ไทย**)
-- [ఉర్దూ](./translations/README-UR.md) (**اردو**)
-- [తెలుగు](./translations/README-TE.md) {**తెలుగు**}
+- [చైనీస్](./README-CHI.md) (**中文**)
+- [జర్మన్](./README-DE.md) (**Deutsch**)
+- [ఇండోనేషియన్](./README-ID.md) (**Bahasa Indonesia**)
+- [జపనీస్](./README-JP.md) (**日本人**)
+- [కొరియన్](./README-KR.md) (**한국어**)
+- [పోర్చుగీస్](./README-PT-BR.md) (**Português**)
+- [రష్యన్](./README-RU.md) (**русский**)
+- [స్పానిష్](./README-ES.md) (**Española**)
+- [తాయ్](./README-TH.md) (**ไทย**)
+- [ఉర్దూ](./README-UR.md) (**اردو**)
+- [తెలుగు](./README-TE.md) {**తెలుగు**}
 
 ## ❓ కొనసాగించటానికి ఎలా?
 
