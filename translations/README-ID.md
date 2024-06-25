@@ -4,12 +4,12 @@ Sebuah repository untuk mempelajari kontribusi open source (_hanya untuk pemula_
 
 ## 🌎 Translations
 
-- [Portuguese](https://github.com/mazipan/hello-open-source/blob/master/README-PT-BR.md)
-- [Chinese](https://github.com/mazipan/hello-open-source/blob/master/README-CHI.md)
-- [Japanese](https://github.com/mazipan/hello-open-source/blob/master/README-JP.md)
-- [Korean](https://github.com/mazipan/hello-open-source/blob/master/README-KR.md)
-- [Indonesian](https://github.com/mazipan/hello-open-source/blob/master/README-ID.md)
-- [German](https://github.com/mazipan/hello-open-source/blob/master/README-DE.md)
+- [Portuguese](./README-PT-BR.md)
+- [Chinese](./README-CHI.md)
+- [Japanese](./README-JP.md)
+- [Korean](./README-KR.md)
+- [Indonesian](./README-ID.md)
+- [German](./README-DE.md)
 
 ## ❓ Bagaimana cara berkontribusi
 

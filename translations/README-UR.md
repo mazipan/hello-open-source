@@ -7,16 +7,16 @@
 ## 🌎تراجم 
 *حروف تہجی کے مطابق ترتیب دیا گیا*
 
-- [Chinese](https://github.com/mazipan/hello-open-source/blob/master/README-CHI.md) (**中文**)
-- [German](https://github.com/mazipan/hello-open-source/blob/master/README-DE.md) (**Deutsche**)
-- [Indonesian](https://github.com/mazipan/hello-open-source/blob/master/README-ID.md) (**Bahasa Indonesia**)
-- [Japanese](https://github.com/mazipan/hello-open-source/blob/master/README-JP.md) (**日本人**)
-- [Korean](https://github.com/mazipan/hello-open-source/blob/master/README-KR.md) (**한국어**)
-- [Portuguese](https://github.com/mazipan/hello-open-source/blob/master/README-PT-BR.md) (**Português**)
-- [Russian](https://github.com/mazipan/hello-open-source/blob/master/README-RU.md) (**русский**)
-- [Spanish](https://github.com/mazipan/hello-open-source/blob/master/README-ES.md) (**Española**)
-- [Thai](https://github.com/mazipan/hello-open-source/blob/master/README-TH.md) (**ไทย**)
-- [Urdu](https://github.com/mazipan/hello-open-source/blob/master/README-UR.md) (**اردو**)
+- [Chinese](./README-CHI.md) (**中文**)
+- [German](./README-DE.md) (**Deutsche**)
+- [Indonesian](./README-ID.md) (**Bahasa Indonesia**)
+- [Japanese](./README-JP.md) (**日本人**)
+- [Korean](./README-KR.md) (**한국어**)
+- [Portuguese](./README-PT-BR.md) (**Português**)
+- [Russian](./README-RU.md) (**русский**)
+- [Spanish](./README-ES.md) (**Española**)
+- [Thai](./README-TH.md) (**ไทย**)
+- [Urdu](./README-UR.md) (**اردو**)
 
 ## کنٹریبیوٹ کیسے کریں 
 

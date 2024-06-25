@@ -6,17 +6,17 @@
 
 _বর্ণানুক্রমে সাজানো_
 
-- [চীনা](./translations/README-CHI.md) (**চীনা**)
-- [জার্মান](./translations/README-DE.md) (**জার্মান**)
-- [ইন্দোনেশিয়ান](./translations/README-ID.md) (**ইন্দোনেশিয়া**)
-- [জাপানি](./translations/README-JP.md) (**জাপানি**)
-- [কোরিয়ান](./translations/README-KR.md) (**কোরিয়ান**)
-- [পর্টুগিজ](./translations/README-PT-BR.md) (**পর্টুগিজ**)
-- [রাশিয়ান](./translations/README-RU.md) (**রাশিয়ান**)
-- [স্প্যানিশ](./translations/README-ES.md) (**স্প্যানিশ**)
-- [থাই](./translations/README-TH.md) (**থাই**)
-- [উর্দু](./translations/README-UR.md) (**উর্দু**)
-- [তেলুগু](./translations/README-TE.md) (**তেলুগু**)
+- [চীনা](./README-CHI.md) (**চীনা**)
+- [জার্মান](./README-DE.md) (**জার্মান**)
+- [ইন্দোনেশিয়ান](./README-ID.md) (**ইন্দোনেশিয়া**)
+- [জাপানি](./README-JP.md) (**জাপানি**)
+- [কোরিয়ান](./README-KR.md) (**কোরিয়ান**)
+- [পর্টুগিজ](./README-PT-BR.md) (**পর্টুগিজ**)
+- [রাশিয়ান](./README-RU.md) (**রাশিয়ান**)
+- [স্প্যানিশ](./README-ES.md) (**স্প্যানিশ**)
+- [থাই](./README-TH.md) (**থাই**)
+- [উর্দু](./README-UR.md) (**উর্দু**)
+- [তেলুগু](./README-TE.md) (**তেলুগু**)
 
 ## ❓ কীভাবে অবদান রাখতে পারি
 
