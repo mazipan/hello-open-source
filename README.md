@@ -3,9 +3,7 @@
 A repository to learn about open source code contributions flow (_for beginners only_).
 
 ## 🌎 Translations
-
 _Sorted alphabetically_
-
 - [Bengali](./translations/README-BN.md) (**বাংলা**)
 - [Chinese](./translations/README-CHI.md) (**中文**)
 - [French](./translations/README-FR.md) (**Français**)
