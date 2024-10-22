@@ -21,13 +21,14 @@ Sebuah repository untuk mempelajari kontribusi open source (_hanya untuk pemula_
 
 ```js
 module.exports = {
-  name: 'YOUR_NAME',
+  name: 'YOUR NAME',
   github: 'XXX',
   email: 'xxx@xxx.com',
   twitter: '@xxx',
   facebook: 'xxx',
-  linkedin: 'in/xxx'
-};
+  linkedin: 'in/xxx',
+}
+;
 ```
 
 - Buatlah Pull-Request ke branch `master` pada repository ini. lebih lengkapnya [Bagaimana cara membuat PR](https://help.github.com/articles/creating-a-pull-request/)

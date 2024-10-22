@@ -18,13 +18,14 @@
 
 ```js
 module.exports = {
-  name: 'YOUR_NAME',
+  name: 'YOUR NAME',
   github: 'XXX',
   email: 'xxx@xxx.com',
   twitter: '@xxx',
   facebook: 'xxx',
-  linkedin: 'in/xxx'
-};
+  linkedin: 'in/xxx',
+}
+;
 ```
 
 - 在这个仓库创建一个指向 `master` 分支的 pull request，阅读 [如何创建一个 PR](https://help.github.com/articles/creating-a-pull-request/)。

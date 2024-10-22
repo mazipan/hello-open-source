@@ -10,13 +10,14 @@
 
 ```js
 module.exports = {
-  name: 'YOUR_NAME',
+  name: 'YOUR NAME',
   github: 'XXX',
   email: 'xxx@xxx.com',
   twitter: '@xxx',
   facebook: 'xxx',
-  linkedin: 'in/xxx'
-};
+  linkedin: 'in/xxx',
+}
+;
 ```
 
 - 본 저장소 `master` 브랜치에 풀 리퀘스트를 한다. [PR 가이드](https://help.github.com/articles/creating-a-pull-request/)

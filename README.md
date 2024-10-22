@@ -42,13 +42,14 @@ _Sorted alphabetically_
 
 ```js
 module.exports = {
-  name: 'YOUR_NAME',
+  name: 'YOUR NAME',
   github: 'XXX',
   email: 'xxx@xxx.com',
   twitter: '@xxx',
   facebook: 'xxx',
-  linkedin: 'in/xxx'
+  linkedin: 'in/xxx',
 }
+
 ```
 
 - Create a pull request to the `master` branch in this repository, read [how to create pull request](https://help.github.com/articles/creating-a-pull-request/)

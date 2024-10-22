@@ -34,13 +34,14 @@
 
 ```js
 module.exports = {
-  name: 'YOUR_NAME',
+  name: 'YOUR NAME',
   github: 'XXX',
   email: 'xxx@xxx.com',
   twitter: '@xxx',
   facebook: 'xxx',
-  linkedin: 'in/xxx'
-};
+  linkedin: 'in/xxx',
+}
+;
 ```
 
 -या रेपॉजिटरीमध्ये मास्टर शाखेत एक पुल विनंती तयार करा, [पुल विनंती कशी तयार करणे](https://help.github.com/articles/creating-a-pull-request/) वाचा

@@ -34,13 +34,14 @@ Een repository om te leren over het verloop van bijdragen aan open source (_enke
 
 ```js
 module.exports = {
-  name: 'YOUR_NAME',
+  name: 'YOUR NAME',
   github: 'XXX',
   email: 'xxx@xxx.com',
   twitter: '@xxx',
   facebook: 'xxx',
-  linkedin: 'in/xxx'
-};
+  linkedin: 'in/xxx',
+}
+;
 ```
 
 - Maak een Pull-Request aan voor de  `master` branch in deze repository, lees [hoe maak ik een PR](https://help.github.com/articles/creating-a-pull-request/)
