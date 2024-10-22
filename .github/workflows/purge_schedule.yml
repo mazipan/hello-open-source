@@ -8,34 +8,35 @@ on:
 jobs:
   purge_file:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write           # 'write' access to repository contents
+      pull-requests: write      # 'write' access to pull requests
+
     steps:
-      - uses: actions/checkout@v3      
+      - name: Checkout
+        uses: actions/checkout@v4
         with:
          persist-credentials: false
          fetch-depth: 0
 
-      - name: Setup node 18
-        uses: actions/setup-node@v1
+      - uses: pnpm/action-setup@v4
+        name: Install pnpm
         with:
-          node-version: 18.x
+          version: 9
+          run_install: false
 
-      - name: Get yarn cache
-        id: yarn-cache
-        run: echo "::set-output name=dir::$(yarn cache dir)"
-
-      - name: Cache Node.js modules
-        uses: actions/cache@v1
+      - name: Install Node.js
+        uses: actions/setup-node@v4
         with:
-          path: ${{ steps.yarn-cache.outputs.dir }}
-          key: ${{ runner.OS }}-yarn-${{ hashFiles('**/yarn.lock') }}
-          restore-keys: |
-            ${{ runner.OS }}-yarn-
+          node-version: 20
+          cache: 'pnpm'
 
       - name: Install dependencies
-        run: yarn
+        run: pnpm install
 
       - name: Run purge
-        run: yarn purge
+        run: pnpm run purge
 
       - name: Commit changes
         run: |
