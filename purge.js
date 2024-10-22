@@ -1,5 +1,5 @@
-const path = require('path')
-const fs = require('fs')
+const path = require('node:path')
+const fs = require('node:fs')
 
 const namesToRemove = process.argv.slice(2)
 
@@ -11,24 +11,28 @@ if (!namesToRemove.length) {
       try {
         fs.unlinkSync(path.join(peoplesPath, file))
         console.log(`Success deleting file: ${file}`)
-      } catch (e) {
+      } catch (_e) {
         console.error(`Error deleting file: ${file}`)
       }
     }
   })
 
-  fs.writeFile(`${peoplesPath}/LAST_UPDATE`, `${new Date().toISOString()}`, function(err) {
-    if (err) {
-      console.error(err)
-    } else {
-      console.log('File "LAST_UPDATE" is updated successfully.')
-    }
-  })
+  fs.writeFile(
+    `${peoplesPath}/LAST_UPDATE`,
+    `${new Date().toISOString()}`,
+    (err) => {
+      if (err) {
+        console.error(err)
+      } else {
+        console.log('File "LAST_UPDATE" is updated successfully.')
+      }
+    },
+  )
 } else {
   namesToRemove.forEach((name) => {
     try {
       fs.unlinkSync(path.join(peoplesPath, `${name}.js`))
-    } catch (e) {
+    } catch (_e) {
       console.error(`Error deleting file for name: ${name}`)
     }
   })

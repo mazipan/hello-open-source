@@ -4,5 +4,5 @@ module.exports = {
   email: 'naveen@gmail.com',
   twitter: '@naveenMadugula',
   facebook: '..',
-  linkedin: 'in/NaveenMadugula'
+  linkedin: 'in/NaveenMadugula',
 }

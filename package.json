@@ -2,11 +2,7 @@
   "name": "hello-open-source",
   "version": "1.0.0",
   "description": "Repository for beginners that learn to contribute to open source project.",
-  "keywords": [
-    "beginners",
-    "contribute",
-    "open-source"
-  ],
+  "keywords": ["beginners", "contribute", "open-source"],
   "homepage": "https://github.com/mazipan/hello-open-source#readme",
   "bugs": {
     "url": "https://github.com/mazipan/hello-open-source/issues"
@@ -19,19 +15,16 @@
   "author": "mazipan",
   "main": "index.js",
   "scripts": {
-    "lint": "eslint .",
-    "lint:fix": "eslint --fix .",
+    "biome:clean": "biome clean",
+    "biome:migrate": "biome migrate --write",
+    "format": "biome format --write",
+    "lint": "biome lint --write",
+    "lint:check": "biome check --unsafe --reporter=summary",
+    "lint:unsafe": "biome lint --write --unsafe",
     "purge": "node ./purge",
-    "test": "echo \"not implement yet\"",
-    "style": "prettier --write ."
+    "test": "echo \"not implement yet\""
   },
   "devDependencies": {
-    "eslint": "^7.32.0",
-    "eslint-config-standard": "^16.0.3",
-    "eslint-plugin-import": "^2.25.2",
-    "eslint-plugin-node": "^11.1.0",
-    "eslint-plugin-promise": "^5.1.1",
-    "prettier": "^2.4.1",
-    "standard": "^16.0.4"
+    "@biomejs/biome": "1.9.4"
   }
 }

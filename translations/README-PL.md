@@ -16,7 +16,7 @@ Repozytorium pokazujące jak działa flow Open Source (_tylko dla nowicjuszy_)
 ## ❓ Jak wnieść swoją cegiełkę
 
 - Zrób fork repozytorium, przeczytaj [jak zrobić fork repozytorium](https://help.github.com/articles/fork-a-repo/)
-- Stwórz branch z nazwą uzytkownika, np: `add-mazipan.js`. 
+- Stwórz branch z nazwą uzytkownika, np: `add-mazipan.js`.
 **Nigdy nie uzywaj branch'a `master` do stworzenia PR**.
   przeczytaj [jak stworzyć branch](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/)
 - Dodaj swój pierwszy plik z nazwą `github_username.js` w katalogu `people/` na twoim branchu.
@@ -24,13 +24,14 @@ Repozytorium pokazujące jak działa flow Open Source (_tylko dla nowicjuszy_)
 
 ```js
 module.exports = {
-  name: 'YOUR_NAME',
+  name: 'YOUR NAME',
   github: 'XXX',
   email: 'xxx@xxx.com',
   twitter: '@xxx',
   facebook: 'xxx',
-  linkedin: 'in/xxx'
-};
+  linkedin: 'in/xxx',
+}
+;
 ```
 
 - Stwórz Pull-Request do brancha `master` w tym repozytorium, read [jak stworzyć PR](https://help.github.com/articles/creating-a-pull-request/)
@@ -74,7 +75,7 @@ yarn purge joe-bob kitty-luvr73
 
 ## 🙈 Robisz to na własne ryzyko
 
-Nie zbieramy danych, ale pamiętaj, że inni mogą chcieć je wykorzystać do własnych celów 
+Nie zbieramy danych, ale pamiętaj, że inni mogą chcieć je wykorzystać do własnych celów
 **nie chronimy Twoich danych**.
 
 ## 🚶 Następny krok

@@ -4,5 +4,6 @@ module.exports = {
   email: 'ssekajjawavamuno@gmail.com',
   twitter: '@IsaacWavamuno',
   facebook: 'https://www.facebook.com/ssekajja.isaac.94?mibextid=ZbWKwL',
-  linkedin: 'https://www.linkedin.com/in/ssekajja-wavamuno-isaac-628a612b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app'
+  linkedin:
+    'https://www.linkedin.com/in/ssekajja-wavamuno-isaac-628a612b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
 }

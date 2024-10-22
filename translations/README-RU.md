@@ -24,13 +24,14 @@
 
 ```js
 module.exports = {
-  name: 'YOUR_NAME',
+  name: 'YOUR NAME',
   github: 'XXX',
   email: 'xxx@xxx.com',
   twitter: '@xxx',
   facebook: 'xxx',
-  linkedin: 'in/xxx'
-};
+  linkedin: 'in/xxx',
+}
+;
 ```
 
 - Создайте Pull-Request в `master` ветку в этом репозитории, прочитайте, [как создавать pull request](https://help.github.com/articles/creating-a-pull-request/)
@@ -53,7 +54,7 @@ module.exports = {
 ```shell
 git clone https://github.com/mazipan/hello-open-source # клонируете репозиторий
 cd hello-open-source # заходите в него
-node index.js caxvis # вернет данные человека по имени caxvis 
+node index.js caxvis # вернет данные человека по имени caxvis
 ```
 
 ## 🗑️ Как удалить данные
