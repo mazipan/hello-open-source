@@ -1,0 +1,53 @@
+name: Cron job purge data
+
+on:
+  workflow_dispatch:
+  schedule:
+  - cron: "0 14 1 * *"
+
+jobs:
+  purge_file:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write           # 'write' access to repository contents
+      pull-requests: write      # 'write' access to pull requests
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+         persist-credentials: false
+         fetch-depth: 0
+
+      - uses: pnpm/action-setup@v4
+        name: Install pnpm
+        with:
+          run_install: false
+
+      - name: Install Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'pnpm'
+
+      - name: Install dependencies
+        run: pnpm install
+
+      - name: Run purge
+        run: pnpm run purge
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "mazipanneh@gmail.com"
+          git config --local user.name "mazipan"
+          git config --global --add safe.directory /github/workspace
+          git add -A
+          git commit -m "🔥 CHORE: purge all data"
+
+      - name: GitHub Push
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          force: true
+          directory: "."
+          github_token: ${{ secrets.GIT_TOKEN }}

@@ -1,0 +1,35 @@
+{
+  "name": "hello-open-source",
+  "version": "1.0.0",
+  "description": "Repository for beginners that learn to contribute to open source project.",
+  "keywords": ["beginners", "contribute", "open-source"],
+  "homepage": "https://github.com/mazipan/hello-open-source#readme",
+  "bugs": {
+    "url": "https://github.com/mazipan/hello-open-source/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mazipan/hello-open-source.git"
+  },
+  "license": "MIT",
+  "author": "mazipan",
+  "main": "index.js",
+  "scripts": {
+    "biome:clean": "biome clean",
+    "biome:migrate": "biome migrate --write",
+    "format": "biome format --write",
+    "lint": "biome lint --write",
+    "lint:check": "biome check --unsafe --reporter=summary",
+    "lint:unsafe": "biome lint --write --unsafe",
+    "purge": "node ./purge",
+    "test": "echo \"not implement yet\""
+  },
+  "devDependencies": {
+    "@biomejs/biome": "1.9.4"
+  },
+  "packageManager": "pnpm@9.12.2",
+  "engines": {
+    "node": "20.x",
+    "pnpm": "^9.12.2"
+  }
+}
