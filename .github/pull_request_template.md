@@ -1,4 +1,8 @@
+
+# Adding Themydee under people directory
+=======
 # Adding [YourName] under people directory
+
 
 Hi, here we go. I am adding my name to this repo.
 
