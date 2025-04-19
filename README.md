@@ -25,6 +25,8 @@ _Sorted alphabetically_
 - [Thai](./translations/README-TH.md) (**ไทย**)
 - [Urdu](./translations/README-UR.md) (**اردو**)
 
+<br>  
+
 ## ❓ How to contribute
 
 - Fork this repo, read [how to fork repo](https://help.github.com/articles/fork-a-repo/)
@@ -62,14 +64,19 @@ module.exports = {
 - Have fun, and welcome to the open-source world.
 - Keep in mind, that quality is always number one when creating PRs, read the instructions carefully.
 
+<br>
+
 ## 💰 Is this a data collection?
 
 No, this repo is intended for learning purposes.
+<br>
 
 ## 🥶 Do I need to attach my real name?
 
 No, you can put a fake data.
 We just want to learn about a contribution flow in the open-source ecosystem.
+
+<br>
 
 ## 🙈 Do it at your own risk
 
@@ -77,6 +84,7 @@ We don't collect any data.
 But there is a chance for other people to abuse your data.
 Please do it at your own risk.
 **We don't protect your data**.
+<br>
 
 ## ⤵️ How do I retrieve someone's data?
 
@@ -108,6 +116,8 @@ This repo will introduce open source contribution flow.
 After finishing all the steps here, we expect you will have a basic knowledge of how to fork the repository, how a git branch works, how to create a good pull request, and other basic things to make your next contribution in open source code 🥳.
 
 **👉 Do NOT stop here, keep contributing to open-source projects**
+
+<br>
 
 ## Contributors
 
