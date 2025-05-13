@@ -44,8 +44,7 @@ You can read this guide in your preferred language:
    - Go to your GitHub account and navigate to your forked repository.
    - Click the `Code` button and copy the URL.
    -Screenshot for this is provided here.
-   ![Clone Screenshot][clone_image]
-   [clone_image]: clone_repo.png
+   ![Clone Screenshot](clone_repo.png)
    - Open your terminal and run:
 
      ```bash
