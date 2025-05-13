@@ -37,8 +37,7 @@ You can read this guide in your preferred language:
    - Go to the top-right corner of [this repo](https://github.com/mazipan/hello-open-source) and click the `Fork` button.
    - You'll have a copy of this repository in your own GitHub account.
    - Screenshot for this is provided here.
-   ![Fork Screenshot][fork_image]
-   [fork_image]: Fork_Screenshot.png
+   ![Fork Screenshot](Fork_Screenshot.png)
    - This will create a copy of the repo under your GitHub account.
 
 2. **Clone your forked repository**
