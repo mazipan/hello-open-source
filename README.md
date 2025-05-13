@@ -42,6 +42,11 @@ You can read this guide in your preferred language:
    - This will create a copy of the repo under your GitHub account.
 
 2. **Clone your forked repository**
+   - Go to your GitHub account and navigate to your forked repository.
+   - Click the `Code` button and copy the URL.
+   -Screenshot for this is provided here.
+   ![Clone Screenshot][clone_image]
+   [clone_image]: clone_repo.png
    - Open your terminal and run:
 
      ```bash
