@@ -1,98 +1,63 @@
-﻿# Hello Open Source 🖐️
+﻿# 👋 Hello Open Source
 
-A repository to learn about open source code contributions flow (_for beginners only_).
+A repository to **learn open source contribution flow** — perfect for **beginners**! Follow the easy steps below to make your first Pull Request (PR) without stress.
 
-## 🌎 Translations
+---
 
-_Sorted alphabetically_
+## 🌍 Translations Available
 
-- [Arabic](./translations/README-AR.md) (**العربية**)
-- [Bengali](./translations/README-BN.md) (**বাংলা**)
-- [Chinese](./translations/README-CHI.md) (**中文**)
-- [French](./translations/README-FR.md) (**Français**)
-- [German](./translations/README-DE.md) (**Deutsch**)
-- [Hindi](./translations/README-HI.md) (**हिंदी**)
-- [Hinglish](./translations/README-HINGLISH.md) (**Hinglish**)
-- [Hungarian](./translation/README-HU.md) (**Hungarian**)
-- [Indonesian](./translations/README-ID.md) (**Bahasa Indonesia**)
-- [Italian](./translations/README-it.md) (**Italiano**)
-- [Japanese](./translations/README-JP.md) (**日本人**)
-- [Korean](./translations/README-KR.md) (**한국어**)
-- [Portuguese](./translations/README-PT-BR.md) (**Português**)
-- [Russian](./translations/README-RU.md) (**русский**)
-- [Spanish](./translations/README-ES.md) (**Española**)
-- [Telugu](./translations/README-TE.md) (**తెలుగు**)
-- [Thai](./translations/README-TH.md) (**ไทย**)
-- [Urdu](./translations/README-UR.md) (**اردو**)
+You can read this guide in your preferred language:
 
-<br>  
+- [Arabic](./translations/README-AR.md)
+- [Bengali](./translations/README-BN.md)
+- [Chinese](./translations/README-CHI.md)
+- [French](./translations/README-FR.md)
+- [German](./translations/README-DE.md)
+- [Hindi](./translations/README-HI.md)
+- [Hinglish](./translations/README-HINGLISH.md)
+- [Hungarian](./translation/README-HU.md)
+- [Indonesian](./translations/README-ID.md)
+- [Italian](./translations/README-it.md)
+- [Japanese](./translations/README-JP.md)
+- [Korean](./translations/README-KR.md)
+- [Portuguese](./translations/README-PT-BR.md)
+- [Russian](./translations/README-RU.md)
+- [Spanish](./translations/README-ES.md)
+- [Telugu](./translations/README-TE.md)
+- [Thai](./translations/README-TH.md)
+- [Urdu](./translations/README-UR.md)
 
-## ❓ How to contribute
+---
 
-- Fork this repo, read [how to fork repo](https://help.github.com/articles/fork-a-repo/)
-- Checkout your forked repo to your computer, read [how to clone repo](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
-- Create a new `branch` with your GitHub username as a branch name, for example: `add-mazipan`.
-- You can use the following command:
-  ```shell
-  git checkout -b YourUsername/YourBranchName`
-  ```
-- Ex: `git checkout -b mazipan/add-mazipan`
+## 🪜 How to Contribute (Step-by-Step)
 
-> **⚠️ DO NOT use `master` or `main` branch to create a Pull Request**.
-> Read the article about [how to create a branch](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/)
+> Follow these steps to make your first open-source contribution smoothly.
 
-- Make sure you are on the new branch, use this command to check your current branch: `git branch --show-current`
-- Add your first file named `github_username.js` to the `people` directory inside your new branch.
-- Add these codes to your new file:
+1. **Fork this repository**
+   - Go to the top-right corner of [this repo](https://github.com/mazipan/hello-open-source) and click the `Fork` button.
+   - You'll have a copy of this repository in your own GitHub account.
+   - Screenshot for this is provided here.
+   ![Fork Screenshot](Fork_Screenshot.png)
+   - This will create a copy of the repo under your GitHub account.
 
-```js
-module.exports = {
-  name: 'YOUR NAME',
-  github: 'XXX',
-  email: 'xxx@xxx.com',
-  twitter: '@xxx',
-  facebook: 'xxx',
-  linkedin: 'in/xxx',
-}
+2. **Clone your forked repository**
+   - Go to your GitHub account and navigate to your forked repository.
+   - Click the `Code` button and copy the URL.
+   -Screenshot for this is provided here.
+   ![Clone Screenshot](clone_repo.png)
+   - Open your terminal and run:
 
-```
+     ```bash
+     git clone https://github.com/YOUR-USERNAME/hello-open-source.git
+     ```
 
-- Create a pull request to the `master` branch in this repository, read [how to create pull request](https://help.github.com/articles/creating-a-pull-request/)
-- Don't forget to give your 🌟 to this repository, you can check in [stargazers page](https://github.com/mazipan/hello-open-source/stargazers)
-- Help me to follow github [@mazipan](https://github.com/mazipan)
-- I will check your PRs, and will **add an `invalid` label** and **close the PRs** of those not following the steps correctly
-- Have fun, and welcome to the open-source world.
-- Keep in mind, that quality is always number one when creating PRs, read the instructions carefully.
+   - Replace `YOUR-USERNAME` with your actual GitHub username.
 
-<br>
+3. **Navigate into the project folder**
 
-## 💰 Is this a data collection?
+   ```bash
+   cd hello-open-source
 
-No, this repo is intended for learning purposes.
-<br>
-
-## 🥶 Do I need to attach my real name?
-
-No, you can put a fake data.
-We just want to learn about a contribution flow in the open-source ecosystem.
-
-<br>
-
-## 🙈 Do it at your own risk
-
-We don't collect any data.
-But there is a chance for other people to abuse your data.
-Please do it at your own risk.
-**We don't protect your data**.
-<br>
-
-## ⤵️ How do I retrieve someone's data?
-
-```shell
-git clone https://github.com/mazipan/hello-open-source # clone the repo
-cd hello-open-source # cd into the repo
-node index.js github_milan960 # will return this person's named github_milan960 to you
-```
 
 ## 🗑️ How do I remove my data?
 
