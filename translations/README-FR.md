@@ -4,14 +4,24 @@ Un référentiel où vous trouverez des informations sur le flux de travail de c
 
 ## 🌎 Traductions
 
-- [Portugais](./README-PT-BR.md)
+- [Arabe](./README-AR.md)
+- [Bengali](./README-BN.md)
 - [Chinois](./README-CHI.md)
+- [Français](./README-FR.md)
+- [Allemand](./README-DE.md)
+- [Hindi](./README-HI.md)
+- [Hinglish](./README-HINGLISH.md)
+- [Hongrois](./README-HU.md)
+- [Indonésien](./README-ID.md)
+- [Italien](./README-it.md)
 - [Japonais](./README-JP.md)
 - [Coréen](./README-KR.md)
+- [Portugais](./README-PT-BR.md)
+- [Russe](./README-RU.md)
 - [Espagnol](./README-ES.md)
-- [Indonésien](./README-ID.md)
-- [Allemand](./README-DE.md)
-- [Français](./README-FR.md)
+- [Telugu](./README-TE.md)
+- [Thaï](./README-TH.md)
+- [Ourdou](./README-UR.md)
 
 ## ❓ Comment contribuer
 
