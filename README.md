@@ -26,7 +26,7 @@ You can read this guide in your preferred language:
 - [Telugu](./translations/README-TE.md)
 - [Thai](./translations/README-TH.md)
 - [Urdu](./translations/README-UR.md)
-
+- [Tamil](./translations/README-TN.md)
 ---
 
 ## 🪜 How to Contribute (Step-by-Step)
