@@ -15,7 +15,7 @@ You can read this guide in your preferred language:
 - [German](./translations/README-DE.md)
 - [Hindi](./translations/README-HI.md)
 - [Hinglish](./translations/README-HINGLISH.md)
-- [Hungarian](./translation/README-HU.md)
+- [Hungarian](./translations/README-HU.md)
 - [Indonesian](./translations/README-ID.md)
 - [Italian](./translations/README-it.md)
 - [Japanese](./translations/README-JP.md)
@@ -26,7 +26,7 @@ You can read this guide in your preferred language:
 - [Telugu](./translations/README-TE.md)
 - [Thai](./translations/README-TH.md)
 - [Urdu](./translations/README-UR.md)
-
+- [Tamil](./translations/README-TN.md)
 ---
 
 ## 🪜 How to Contribute (Step-by-Step)
